@@ -1,0 +1,3743 @@
+
+Instance 0 (8 EDUs)
+  [0] International tourism is now more common than ever before\n\
+  [13] nThe last 50 years have seen a significant increase in the number of tourist traveling worldwide
+  [31] . While some might
+  [35] think the tourism bring large profit for the destination countries
+  [46] , I would conten
+  [50] d that this industry has affected the cultural attribut
+  [59] es and damaged the natural environment of the tourist destinations
+  [71] .
+
+Instance 1 (11 EDUs)
+  [0] Firstly, it is an undeniable fact that tourists from different cultures will probably cause changes to the cultural identity of the tourist destinations
+  [30] . Take Thailand for example, in the Vietnam War, many American soldiers came to Thailand for a
+  [50] break and involved in sexual and drug activities
+  [58] , these huge demands caused many local businesses
+  [67] opened and expanded
+  [71] , even illegally involved in under-age prostitu
+  [81] tes to maximize their profits
+  [88] . This was due to the lack of adequate controls by
+  [101] authorities and lead to a bad image of Thailand tourism
+  [112] . Therefore this proves that international tourism can create negative impacts on the destination countries
+  [130] .
+
+Instance 2 (10 EDUs)
+  [0] Secondly, there are clear evidences that tourism increasingly create harms to the natural habitats of the destination appeals
+  [26] . As the Australia's Great Barrier Reef has shown
+  [39] , the billion visitors per annum has generated immense destruction to this nature wonder
+  [55] , namely breaking the coral
+  [61] s caused by walking or throwing boat's anchors
+  [74] , dropping fuel and other sorts of pollutions
+  [85] . For this reason, many marine lives have been endangered
+  [98] , in the extremes part of the reef become uninhabitable for these marine species
+  [117] . Thus, it is apparent that tourism has threatened the nature environments
+  [135] .
+
+Instance 3 (5 EDUs)
+  [0] To conclude, I strongly
+  [6] believe that the tourism has created threatening pressure on both the sociocultural and natural environments
+  [26] . If authorities do not take steps to appropriately conserve these precious values
+  [41] , they will be destroyed in the near future
+  [51] .
+
+Instance 4 (8 EDUs)
+  [0] Living and studying overseas\n\
+  [10] nIt is every student's desire to study at a good university and experience a new environment
+  [29] . While some students study and live overse
+  [38] as to achieve this
+  [42] , some prefer to study
+  [47] home because of the difficulties of living and studying overseas
+  [61] . In my opinion, one who studies overseas will gain many skills throughout this experience for several reasons
+  [82] .
+
+Instance 5 (3 EDUs)
+  [0] First, studying at an overseas university gives individuals the opportunity to improve social skills by interacting and communicating with students from different origins and cultures
+  [34] . Compared to the peers studying in the home country, it will be more likely for the one who is living overseas to be successful in adapting himself/herself into new environments and situations in life
+  [80] .
+
+Instance 6 (10 EDUs)
+  [0] Second, living and studying overseas is an irreplaceable
+  [14] experience when it comes to learn standing on your own feet
+  [25] . One who is living overse
+  [32] as will of course struggle with loneliness
+  [42] , living away from family and
+  [48] friends but those difficulties will turn into valuable experiences in the following steps of life
+  [64] . Moreover, the one will
+  [71] learn
+  [72] living without depending on anyone else
+  [79] .
+
+Instance 7 (4 EDUs)
+  [0] Also, employers are mostly looking for people who have international and language skills
+  [15] . Becoming successful in this study will give the student an edge in job market
+  [32] . Therefore, one who has studied and lived overseas will become more eligible for the job than his/her peers
+  [58] .
+
+Instance 8 (3 EDUs)
+  [0] In conclusion, there are many difficulties a student might face when studying and living overseas
+  [20] . However, living and studying overseas gives the individual a new perspective on the subject that is studied or in general life
+  [47] .
+
+Instance 9 (6 EDUs)
+  [0] Studies abroad and the cultural aspect of the experience\n\
+  [13] nStudying abroad is one very common thing that students do
+  [27] , and they have different reasons for that
+  [35] . I believe that studying abroad has many advantages
+  [47] . Students gain a lot out of the experience personally, academically, and culturally
+  [65] .
+
+Instance 10 (7 EDUs)
+  [0] First of all, students who study outside their countries can get a lot of
+  [15] experience living in a foreign country
+  [21] . Living in a new country requires a great amount of flexibility and adaptability in one's character
+  [42] . For example, students might face many challenges in the host country
+  [55] . Therefore, they should be able to deal with the obstacles that they may encounter
+  [73] . Overcoming problems teaches the students how to be more mature and self-independence
+  [92] .
+
+Instance 11 (5 EDUs)
+  [0] One other important factor is the new academic experience that the students can obtain at the institution where they are pursuing their studies
+  [25] . For example, they will get exposed to a different educational system
+  [39] . They will meet new professors and new class
+  [49] mates which makes the academic experience different from that in their home country
+  [62] .
+
+Instance 12 (10 EDUs)
+  [0] Most important is the cultural aspect of the experience
+  [9] . While living in a foreign country
+  [16] , students can learn a lot about the culture of that country
+  [28] . Furthermore, they can meet different people of the country
+  [41] . They can learn about their way of thinking, their customs and traditions, and way of life
+  [62] . Learning about others' cultures is so important
+  [72] . It contributes in building a new understanding in us of how we see the world
+  [89] . It makes us more open, and willing to accept different ideas and thoughts
+  [104] . Also it educates us about the world we are living in
+  [117] .
+
+Instance 13 (4 EDUs)
+  [0] In conclusion, studying abroad does not only have advantages
+  [13] , but also can change us in a very positive way
+  [24] . It can influence us in different aspects of life
+  [34] .
+
+Instance 14 (8 EDUs)
+  [0] Advertisements affects on consumer good
+  [9] s\n\
+  [13] nEveryday, companies offer a huge number of different products to consumers
+  [28] . The most effective way to convince consumers to purchase a product is through advertising
+  [44] . However, it is not sufficient in itself
+  [54] . The product also should satisfy the needs of the consumers
+  [67] . In my opinion, advertising is the major reason for high sales of a product for several reasons
+  [86] .
+
+Instance 15 (11 EDUs)
+  [0] We are mainly introduced to products through advertisements
+  [11] . Therefore, advertisers push the limits of creativit
+  [23] y to dispose the consumers to purchase the product
+  [33] . When the consumers are impressed by the way a product is advertised
+  [48] , they can be convinced to consider that the product is a need in some cases
+  [65] . Recently, there is a very creative advertisements of a soft drink product on TV
+  [83] . The story delivers a desired call to drink that soft
+  [96] drink that people tend to
+  [101] drink when the weather is too hot
+  [108] . As a result of this, the number of that product being sold will increases
+  [125] .
+
+Instance 16 (12 EDUs)
+  [0] Also, the more an advertisement of a product takes place in mass media
+  [15] , the more popular the product becomes
+  [23] . Advertisement is the most effective way to create a well-known product
+  [41] . Consumers tend to purchase the most known
+  [50] product when it comes to picking one out of two different brands of the same product
+  [68] . When a product is commonly used
+  [76] , it becomes trustworthy for the society
+  [86] , no matter what quality it is
+  [93] . However, it also has to be affordable for the consumer
+  [105] . Considering this fact, advertisements have undeniable affects on the society about the product being advertised
+  [128] . They make the product preferable
+  [135] .
+
+Instance 17 (5 EDUs)
+  [0] In conclusion
+  [2] , as I believe that consumers should consider major
+  [12] needs when they purchase goods
+  [18] , high sales are obviously a reflection of the powerful advertisements
+  [31] .
+
+Instance 18 (5 EDUs)
+  [0] Paying more money is the only motivation to make employees work harder\n\
+  [17] nThe purpose of this essay is to discuss whether or not the only way to motivate employees to be more hard-working and productive is by raising their salaries
+  [52] . In this essay, I would start by analyzing the factors for higher yield
+  [70] s and finish by stating my position on this
+  [80] .
+
+Instance 19 (14 EDUs)
+  [0] A raise or a promotion can no doubt increase the morale in the working places
+  [15] . Workers understand they have to work har
+  [24] der to meet the boss'
+  [30] expectations and to make themselves worthwhile
+  [37] . For instance, junior high school teachers have great responsibility not only for students' private
+  [54] lives as they are going through adolesce
+  [61] nce but also their school
+  [66] work due to the fact that it is an important phase for them to study
+  [81] hard and get into the high school they want
+  [90] . If the teachers receive higher salaries
+  [98] , they will be willing to spend more extra time mentoring the young
+  [112] sters rather than hoping they learn in cram schools and so forth
+  [126] , as this is what is happening in Taiwan
+  [135] .
+
+Instance 20 (9 EDUs)
+  [0] Nevertheless, I
+  [5] believe that creating an enjoyable working environment is more realistic and
+  [18] essential if one wishes an increase in productivity and better employee performances
+  [34] . Take Google for example
+  [39] , the company offers recreation rooms and extra personal leaves for their
+  [53] workers to develop a more relaxing and supportive workforce
+  [65] . By doing this, the employers can make sure the employees can actually focus and concentrate on their
+  [86] projects instead of thinking about their children or feeling pressured
+  [97] .
+
+Instance 21 (7 EDUs)
+  [0] To sum up, I
+  [5] believe that a higher pay can be one of the
+  [15] incentive if were to encourage harder-working employees
+  [25] . Alternatively, providing a more secured and relaxing environment for workers can fundamentally boost their productivit
+  [47] y since they will be feeling more cared
+  [56] for and therefore do their best for their bosses
+  [66] .
+
+Instance 22 (4 EDUs)
+  [0] Advantages and disadvantages of the prevalent of English\n\
+  [17] nWith the development of globalization, English became the dominated language in national trade, conference and many important events
+  [40] . This phenomenon has aroused a heated discussion in public
+  [56] .
+
+Instance 23 (11 EDUs)
+  [0] Some people claim that the prevalent of English brings a great number of benefits for people
+  [18] . First of all, it promotes the communication and interaction between different countries more conveniently and clearly
+  [38] . In the ancient time, the different languages and geography set barriers for people to exchange their goods and ideas
+  [64] . Fortunately, the innovation of plane and train solved the geographical barriers
+  [82] . If we can popularize the use of English
+  [92] , the language hinder will disappear as well
+  [101] . In addition, English is a beautiful language
+  [110] , which is more systematical and extensive than many other languages
+  [125] . Learning English can foster people's
+  [134] sentiment and nourish their literature and art
+  [142] .
+
+Instance 24 (12 EDUs)
+  [0] However, the opponents
+  [6] believe that the dominated status of English has destroyed culture diversi
+  [19] ty and many less-used languages become extinct
+  [31] . Even English is a sophisticated language
+  [41] ; it does not express every detail of
+  [49] life especially in Asia countries, which have totally different linguistic system
+  [62] . It is undeniable that language contains many aspects of people's daily life
+  [80] , which is influenced by culture, environment as well as religious
+  [93] . Obviously, these languages have special significance for people who belong to
+  [111] them and using
+  [114] English to replace them is crudity
+  [122] .
+
+Instance 25 (5 EDUs)
+  [0] Personally, English as an elegant language should be advocated in many field
+  [15] s to expand the global trade and communications
+  [24] . But, we still need preserve other language
+  [34] s for sake of keeping the linguistic and cultural diversity
+  [46] .
+
+Instance 26 (7 EDUs)
+  [0] Computers - use, future prospects and over-dependence\n\
+  [15] nComputer-a device which has given a whole new dimension to the human life
+  [33] . Ever since Charles Babbage (know as "Father of computers") invented computers
+  [54] , its development never had a pause
+  [61] . The whole world is dependent on computers
+  [70] , without which, the world will go back hundreds of years
+  [83] .
+
+Instance 27 (11 EDUs)
+  [0] In the modern world, computers are used everywhere
+  [10] . Right from flying planes to sending a small document, computers are needed
+  [26] . They are used in space programs, wars, hospitals, schools and so on
+  [44] . Computers have made human life more easy, convenient and lightning fast
+  [59] . For example, in earlier days, if one had to send a message to someone in other country, it used to take months
+  [85] . But today, it can be sent in few minutes by typing a email and few clicks
+  [105] . Computers provide speed
+  [110] , increase efficiency, accuracy, precision
+  [120] , help to increase productivit
+  [126] y and other countless benefits are provided by it
+  [136] .
+
+Instance 28 (6 EDUs)
+  [0] Moreover, future prospects of computers are very bright
+  [12] . From a computer as big as a room, it has now been minimized to the size of a palm
+  [34] . Nanotechnology is working to make computers to the order of microscopic levels
+  [53] . Research on making computerized drone soldiers (unmanned computer controlled) is going on
+  [73] . There is no end to the evolution of computers
+  [85] .
+
+Instance 29 (9 EDUs)
+  [0] However, everything has pros and cons
+  [8] . Computers have made humans over-dependent
+  [17] . Virus programs, privacy breach, leak of confidential documents, cyber attacks, identity theft, frauds etc. are some of its demerits, from a countless list
+  [56] . Computers expose children to vulgar materials
+  [64] . They have even invaded mental health of humans
+  [74] , for example, FAD (Facebook Addiction Disorder - excessive use of social networking website Facebook
+  [95] ). Computers have intruded our lives to the effect that a satellite can peep into our homes and privates lives
+  [120] . The recent case of Wikileaks, leaking confidential data is an example of how computers are harmful
+  [145] .
+
+Instance 30 (9 EDUs)
+  [0] Nevertheless, with all the mentioned demerits, computers have provided security and sophistication too
+  [23] . Thus, dependence on computers is not a bad thing
+  [37] . However, one needs to be aware of all the pros and con
+  [51] s and beware of malicious things
+  [59] . Computer was invented for the benefit of man
+  [69] kind and it has fulfilled its objective
+  [77] . Human life today can't be imagined without computers
+  [90] , so not depending on them is out of question
+  [101] .
+
+Instance 31 (4 EDUs)
+  [0] Should government control media crime\n\
+  [8] nThe soaring crime rate has led to the proposal that it is time for the government to take
+  [28] action to control the proliferation of violent scenes in media
+  [40] .
+
+Instance 32 (8 EDUs)
+  [0] Obviously, violence in the media is often portrayed as extreme as
+  [16] possible in order to attract audiences
+  [23] . This will definitely set a bad example for the immature audience
+  [37] s who, lacking correct parental guidance and abilities to differentiate the right from wrong
+  [56] , are prone to go astray by imitating the violent behavior
+  [71] s and committing real violent
+  [78] crimes as they regard the violence as reasonable and justifiable
+  [89] .
+
+Instance 33 (10 EDUs)
+  [0] On the other hand, media, such as TV or film, is considered as the correct information source regulated by the government
+  [25] . It should be report
+  [30] ing and reflecting true phenomenon in the society
+  [42] . Violence, as one of the facts in the real world, certainly has to be reported
+  [62] . However, excessive violence would offer misleading information to the
+  [75] public and exert detrimental influence to the society as well
+  [87] . It is recently reported in the news that a seventeen-year-old boy killed all his family members, one sister and two parents out of hatred and jealousy
+  [124] . In the real world, we are inclined to take extreme
+  [138] approach to tackle a small problem due to excessive violence exposure
+  [150] .
+
+Instance 34 (5 EDUs)
+  [0] We cannot deny that our society is occupied with the violent scenes and plots at present
+  [21] . What the government should do immediately is to strengthen censor
+  [34] ship to control the amount of violence in media
+  [43] . Otherwise, the violent crime rate will rise continuously and out of control someday
+  [62] .
+
+Instance 35 (9 EDUs)
+  [0] Should all the advertisements be banned?\n\
+  [12] nNever in history was advertising industry so developed as in modern
+  [25] society and it has led to some adverse sentiments in
+  [37] public because some deliver exaggerated and fake information
+  [48] . Hence whether we should ban all the advertisements or not has aroused much controversy of the public
+  [72] . My view is
+  [76] that while some of them are disturbing
+  [84] , we can not overlook other merits the advertisements bring
+  [97] .
+
+Instance 36 (7 EDUs)
+  [0] First, it is unfair to restrict those public service advertise
+  [12] ments which are creative and inspiring
+  [19] . In fact, they are not in the purpose of making profit
+  [32] s but taking a
+  [36] role of disseminating valued culture, good moral trait
+  [48] s and calling for helps for the disabled and the poor
+  [59] .
+
+Instance 37 (6 EDUs)
+  [0] Besides, it is obvious that publicizing brand image or a particular product of mass media could boost sales for companies
+  [23] . In a larger sense, it could simulate household
+  [34] spending and therefore promote the economic development of the whole country
+  [45] . A recent study shows that after launching an advertising campaign, the sales revenue would increase by 40%
+  [65] , which is the very fact to verify its positive influences on economic
+  [80] .
+
+Instance 38 (6 EDUs)
+  [0] That is not to say, however, that advertisements have no downsides
+  [16] . Of course, the advertising expenses lead to a higher product
+  [29] price and some of them express fake information
+  [37] , creating information asymmetry between consumers and companies
+  [49] . Yet, its merits still outweigh these downsides
+  [63] .
+
+Instance 39 (6 EDUs)
+  [0] Taken all together, advertisements have its social
+  [10] responsibility and contribute to economic growth
+  [16] . We can not deny all of them
+  [25] . However, if those with exaggerated and fake information could be banned
+  [42] , advertisements would be welcomed by more
+  [51] .
+
+Instance 40 (8 EDUs)
+  [0] The best way to relax is by exercises\n\
+  [12] nIn modern society, people often face many difficulties under great stress
+  [26] . Therefore, it is necessary for many to find ways to relax
+  [39] . Although miscellaneous people may apply diverse strategies, such as reading, watching movies, or working in their gardens
+  [65] , I argue that the most suitable method of reducing stress for modern people is by different kinds of exercise
+  [88] , which can not only improve health
+  [95] conditions but also bring positive emotions
+  [102] .
+
+Instance 41 (9 EDUs)
+  [0] It is not surprised that exercise play a crucial role in ameliorating physical health
+  [16] . Any kinds of sports, such as jogging, swimming, or playing basketball, can effectively facilitate human respiration and circulation system
+  [45] . Moreover, these sports can also strengthen muscle
+  [56] s and lessen surplus adipose tissues in human body
+  [69] . The latter one is of particular
+  [77] importance because nowadays more and more people are suffer from obesity
+  [91] . Many studies has points out that numbers of overweight people have increased in developed countries in recent years
+  [111] , which mainly results from insufficient exercises
+  [121] .
+
+Instance 42 (9 EDUs)
+  [0] Sports activities can improve mental health as well
+  [8] . When people exercise
+  [12] , the neuron cells in the brain release a chemical compound named Dopamine
+  [29] . This hormone can delight one's mind
+  [39] , creating positive feelings
+  [44] . Thus good exercises can often successfully alleviating one's heavy burdens
+  [63] . Moreover, rigorous exercise can also hone one's will
+  [78] , which enable people to be able to tackle stringent problems and arduous tasks
+  [98] .
+
+Instance 43 (4 EDUs)
+  [0] In a nutshell, many activities can let humans relax
+  [11] . Nevertheless, I assert that the best way of diminishing stress is by exercises
+  [32] , which can benefit everyone not only physically but also mentally
+  [45] .
+
+Instance 44 (10 EDUs)
+  [0] Zoos should be banned\n\
+  [9] nChildren tend to visit zo
+  [17] os where various kinds of wild creatures could be seen
+  [29] . When it comes to whether zoos should exist on contemporary society
+  [44] , animal-right activists strongly
+  [52] recommended that wildlife belong to natural
+  [60] environment and zoos should be banned
+  [68] . I would not go along with their view
+  [77] point as zoos have irreplaceable benefits in terms of animal preservation and children education
+  [95] .
+
+Instance 45 (9 EDUs)
+  [0] There is no den
+  [4] ying that our environment is damaged day by day due to the fact that excessive pursuit of economic development at expense of eco-system
+  [32] , which pose a great threat to the survival of wild animals
+  [44] . In contrast, zoo is a good alternative choice for protecting
+  [57] animals as various animals could be better protected by specialized staff
+  [69] . Once the animal got sick
+  [75] , professional vet will help them promptly
+  [83] . Thanks to the considerate care, the diversity of wild animal could be guaranteed
+  [101] .
+
+Instance 46 (13 EDUs)
+  [0] Additionally, zoos afford a
+  [9] platform to education teenagers
+  [14] , helping to establish eco-friendly behavior towards animals
+  [24] . In the zoos
+  [29] , even though wild animals are caged
+  [37] , they have cap
+  [41] ability to walk in a limited area
+  [48] . When children pay a visit to the zoos
+  [58] , they still could observe the eating behavior or leisure activities among animals
+  [72] , which would definitely enrich their knowledge associated with different animals
+  [84] . Further, children could acquire the information regarding how to protect wild
+  [98] animals according to guided tour or volunteers
+  [107] .
+
+Instance 47 (8 EDUs)
+  [0] On the other hand, complained about the drawbacks of zoos are often heard
+  [18] . It is true that some zoos are lack of systematic
+  [30] management which attributes to numerous wild
+  [37] animals die because of food shortage
+  [44] . Also, being caged in the zoos for
+  [55] long render wildlife lost the ability to survive in
+  [65] nature where is full of cruel competition among various animals
+  [75] .
+
+Instance 48 (8 EDUs)
+  [0] In order to protect animals
+  [5] , from my perspective, zoos offer a good man-made
+  [18] environment which could prolong the life span of wild
+  [27] animals and cultivate the notion of protecting animals
+  [38] . What the zoos should do is improvement of the management
+  [50] system and use the income wis
+  [56] ely in preserving wild animals better
+  [64] .
+
+Instance 49 (9 EDUs)
+  [0] Advertising - positive or negative part of our lives\n\
+  [12] nNowadays, the use of advertisement through different forms of media such as newspapers, radio and television has become very prevalent
+  [41] , so it is thought to be a necessary part of today's society
+  [56] . Many believe that advertising has brought great benefits to
+  [66] lives therefore it should be considered a positive
+  [74] activity while others have held a complete different idea about this
+  [85] . Both views will be critique
+  [91] d before a reasonable conclusion is drawn
+  [99] .
+
+Instance 50 (9 EDUs)
+  [0] First, it is generally understood that advertising is carried out with the main purpose of promoting different products and
+  [21] services or encouraging people to consume more
+  [31] . Advertisements are, therefore, very important for many businesses to increase sales and hence profits
+  [53] . Also, to consumers, advertising can bring them many benefits
+  [66] . For example, customers of telecommunication services will have an idea about the current offers of different
+  [85] companies and hence they can compare
+  [92] them and then have a better decision in choosing their internet or mobile phone plans
+  [107] . From all of these, it is easy to see why the idea that advertising is a positive part of life will garner strong support
+  [134] .
+
+Instance 51 (9 EDUs)
+  [0] However, it can be seen that some people have argued against advertising due to its negative impacts
+  [20] . Firstly, a huge amount of different advertisements could be sent automatically by a system to personal phones or email addresses
+  [46] , this is generally known as spam
+  [53] , and causes discomfort or even annoyance to many people
+  [67] . Secondly, advertising can be very
+  [75] expensive and not every advertising campaign can be done successful
+  [85] ly and brings good results
+  [91] . Therefore, advertising is believed by many, a financial burden to businesses
+  [107] .
+
+Instance 52 (6 EDUs)
+  [0] In conclusion
+  [2] , after analyzing the pros and cons of advertising
+  [14] , both of the views have strong support
+  [22] , but it is felt that more good comes from advertising than bad
+  [35] . Thus, the idea that advertising is a positive part of life can be more supported
+  [54] .
+
+Instance 53 (5 EDUs)
+  [0] It is better for children to grow up in the countryside than in a big city?\n\
+  [21] nNowadays living is possible on every place of the world
+  [34] , but still there are some differences among them
+  [44] . From my point of view big cities can be a good place for bringing up children
+  [61] .
+
+Instance 54 (5 EDUs)
+  [0] To begin with, it is undeniable that education is better in big cities in comparison with countrysides
+  [22] . For instance, in my country the best schools, universities and institutes are located in cities
+  [42] , and todays education is one of the most important parts of our children's life
+  [60] . Therefore, it is a good idea for children to past their first earlier life in the cities
+  [79] .
+
+Instance 55 (6 EDUs)
+  [0] What is more, it is acknowledged that a large number of creational facilities are built in cities
+  [20] . Children who live in cities have a lot of entertainment
+  [31] . For example playgrounds, parks, science museums, cinemas etc
+  [48] . However, in countrysides we hardly ever see creational facilities
+  [63] . Children who live in countrysides most of the time pass their free time in farms
+  [82] .
+
+Instance 56 (6 EDUs)
+  [0] Finally, in big cities children access to media easily
+  [10] , so they can learn a lot of things by watching television and surfing through the net
+  [28] . Via internet they can have connection with the other children all around the world
+  [43] , therefor they can exchange their knowledge
+  [51] , they can learn different cultures
+  [58] .
+
+Instance 57 (6 EDUs)
+  [0] To sum up
+  [3] , although countrysides have some advantages such as fresh air, peace, and etc
+  [21] . Today's children needs something
+  [28] s to entertain them
+  [32] , and occupy their leisure time in the best way
+  [45] .
+
+Instance 58 (6 EDUs)
+  [0] A single international language or not?\n\
+  [10] nThe 21st century has witnessed the sweeping trends of globalization
+  [27] , which raises people's concerns about whether a single international language should be a necessity or not
+  [50] . From my perspective, a universal
+  [57] language playing the dominant role in the international community is of vital significance to global people
+  [74] .
+
+Instance 59 (9 EDUs)
+  [0] It is especially
+  [3] true if we consider the fact that a single international language plays a pivotal role in global economic cooperation
+  [25] . As businessmen from different countries have access to the same language
+  [38] , they can communicate with each other more efficiently and deeply on trade
+  [55] , which can intensify the transnational cooperation
+  [65] . In contrast, without the availability of the same language, there might be a chance that misunderstanding and conflicts would ensue over business negotiations
+  [100] , impeding collaborations between them
+  [107] . Therefore, a single international language serves an economic purpose
+  [119] .
+
+Instance 60 (9 EDUs)
+  [0] Also, a universal language is an integral part of cultural communication and interactions
+  [15] . If people are equipped with a single international language
+  [26] , they can tell each other smoothly about their countries' specific cultures such as the traditional customs or the modern lifestyles
+  [52] , which enables people to expand their outlooks
+  [63] , viewing the world in new angles
+  [72] . For example, when people travel to foreign countries
+  [82] , the local people can introduce the tourist attractions to such people with the command of the universal language
+  [102] , helping foreign visitors have an enjoyable exotic experience
+  [112] .
+
+Instance 61 (9 EDUs)
+  [0] In spite of this, the disadvantages of the promotion of a universal language cannot be denied
+  [23] . To be more specific, a single international language may, to some extent, erode the cultural identity of a nation
+  [47] . This is because people may be impressed by the cultural values brought with the universal language
+  [64] , eroding a sense of national belong
+  [73] . For instance, some Asians are seeking individualism
+  [84] , previously denied by many Asian countries
+  [93] , due to the fact that they have gradually identified with such values expressed in American movies
+  [112] , which are imported by the governments as a result of the proliferation of English
+  [130] .
+
+Instance 62 (3 EDUs)
+  [0] Therefore, I would conclude that a single international language contributes to global community in terms of economic and cultural communication
+  [22] . On the other hand, every country should by no means disregard the preservation of their own cultural heritage
+  [47] .
+
+Instance 63 (8 EDUs)
+  [0] Roles of international sports events\n\
+  [9] nWhenever an international sporting occasion like the football World Cup takes place
+  [24] , it attracts millions of people all over the world
+  [35] . As sport has become a common
+  [42] passion which passed over every national border
+  [49] , popular sports events can help reduce international tensions remark
+  [61] ably and promote national prides safely
+  [69] .
+
+Instance 64 (12 EDUs)
+  [0] First and foremost, sports events are good chances for excellent athletes to meet and learn valuable experiences from one
+  [23] another so that they can improve their results
+  [31] , break
+  [33] records and bring victories to their own countries
+  [42] . Because a large number of people will gather in the host city for sport events
+  [59] , there are many good opportunities for discovering different cultures
+  [71] . Consequently, sport events with the spirit of healthiness, honesty and fairness can help strengthen understanding, friendship and solidarity among nations
+  [106] . After sharing competitive but interesting moments in each competition
+  [116] , the competitors often shake hands
+  [123] friendly and congratulate the winners
+  [130] , which can lead to an improvement in the relationships among nations
+  [143] .
+
+Instance 65 (17 EDUs)
+  [0] Secondly, sporting occasions play an essential role in raising patriotic emotions in both athletes and spectators
+  [26] . Seeing national flags be honored may be the most emotional moments to each athlete
+  [45] . The athlete also seems to be more aware of his 
+  [58] responsibilities and he wants to contribute more to his beloved country
+  [70] . When witnessing our national flags flying proudly among others
+  [84] , many of us can stop hiding our pride and happiness
+  [96] . For instance, when Vietnam became the champion of SEAGAMES for the first time in
+  [114] 2008, a festival atmosphere permeated into the streets
+  [125] . People from all ages turned out to the streets with flags, banner
+  [142] s and they sang aloud songs of Ho Chi Minh President
+  [155] . The eager atmosphere lasted many next days
+  [165] . In fact, some hooligans were so
+  [175] excited that they took part in motor rac
+  [183] ing or using fireworks illegally
+  [191] . However, the hooligans only took a minority of people
+  [205] . Therefore, it can be said that sport events help to wake up love and responsibilities strongly in each citizen
+  [228] .
+
+Instance 66 (4 EDUs)
+  [0] In conclusion, international sporting occasions are not only one of the effective solutions to tensions among na
+  [21] tions but also a stimulant for releasing patriotic emotions safely
+  [37] . Hence, I recommend that big sports events should be held more frequently in the future
+  [55] .
+
+Instance 67 (9 EDUs)
+  [0] Children engagement in paid work\n\
+  [8] nIn many countries, children are educated from their young age to be independent and responsible for their actions
+  [29] . Their parents allow them to take some
+  [38] jobs because these jobs can help them learn and take responsibilities
+  [50] . However, some people think it's not a good educational measure
+  [64] . From my point of view, the benefits of
+  [74] children engagement in paid
+  [78] work outweigh its drawbacks
+  [86] .
+
+Instance 68 (8 EDUs)
+  [0] First of all, children can learn about the hardship of earning money
+  [15] . When they take some kind of paid work such as looking after babies, doing housework and keeping shops
+  [38] , they will have some life experience and skills which make them
+  [50] mature and can deal with many different situations in real life
+  [61] . Therefore, they are likely to understand their parents' hardship
+  [74] , to respect values of
+  [79] money and to form a good habit of saving
+  [89] .
+
+Instance 69 (11 EDUs)
+  [0] Secondly, when children take jobs
+  [7] , they tend to be more
+  [13] responsible because whether they can earn money or not will depend on their effectiveness and attitudes in working
+  [33] . To keep their jobs
+  [38] , children will have to try their
+  [45] best to finish their duties
+  [51] . For example, if a child works as a shop assistant
+  [63] , he will have to keep an eye on good and products
+  [75] , calculate prices correct
+  [80] ly and take responsibilities for any lost
+  [88] .
+
+Instance 70 (9 EDUs)
+  [0] Some people may argue that children will be more material
+  [11] , neglect their
+  [15] study for earning
+  [19] money or be exploited by the employers
+  [28] . However, if children get good care and instructions from their parents
+  [41] , they can take advantages of the
+  [49] work to learn valuable
+  [53] things and avoid going in a wrong way
+  [61] .
+
+Instance 71 (9 EDUs)
+  [0] In conclusion, if children take part in some kind of paid work with their parents' permission
+  [18] , they can learn lively
+  [24] lessons and become mature and responsible
+  [30] . I
+  [32] recommend that parents should help their children to choose a suitable
+  [43] job which does not affect their children 's
+  [52] study and that the government should have right
+  [60] policies to avoid exploiting children's labour
+  [69] .
+
+Instance 72 (5 EDUs)
+  [0] Jury must have access to criminals' past records\n\
+  [14] nCourts of many countries provide a jury with the history of a defendant
+  [31] , except those of the UK and Australia
+  [39] . Common belief that a jury should obtain all information regarding a suspect has fostered some lawyers to protest against the current rules in those two countries
+  [69] .
+
+Instance 73 (6 EDUs)
+  [0] Many people hold the opinion that past behaviour determines the future actions
+  [13] , which could be the main reason to support the idea of revealing the record to the jury
+  [32] . We must acknowledge that complete data concerning the history of a sued person creates more opportunity for jury members to build an overall picture of defendant's personality
+  [67] . Furthermore, past record might be useful to decide whether a person was able to perform a certain type of
+  [90] crime when it concerns serious crimes, such as kidnapping or a murder
+  [105] .
+
+Instance 74 (8 EDUs)
+  [0] Nevertheless
+  [3] , in order for the jury to come up with an objective
+  [15] decision not depending on the past experience
+  [23] , the court should provide with details relevant to a particular case only
+  [36] . For instance, a defendant with number of past crimes has more chance to be found guilty compared to a person with no or lighter criminal record
+  [66] . Innocent suspects, eventually, can face unfair juridical
+  [81] decision and pay twice for their previous inadequate actions
+  [92] .
+
+Instance 75 (6 EDUs)
+  [0] In conclusion, I am skeptical about disclosing the defendant's history to the jury
+  [20] , with intention to avoid subjective and probable inaccurate verdict
+  [35] . Thus, I strongly support the current laws of Great Britain and Australia
+  [51] , and would not change the
+  [57] regulations on keeping the jury unaware of past actions
+  [67] .
+
+Instance 76 (8 EDUs)
+  [0] The Internet is an adequate source of academic information\n\
+  [13] nOver the past few decades, the world has witnessed a long stride in technological modernization, especially in field of education
+  [42] . This has enabled university lecturers to post their lessons on the web for the sake of students
+  [61] . Consequently, direct interactions between teachers and learners have been deemphasized
+  [82] . However, the impact of the Internet on schooling is still an intriguing
+  [99] issue which has sparked a heated debate among educationists
+  [111] . Personally, I believe that the Internet will pave way for a more accessible and convenient learning
+  [131] .
+
+Instance 77 (13 EDUs)
+  [0] First and foremost, the Internet is an adequate source of academic information
+  [16] , which will potentially fulfill the needs of university pupils
+  [28] . Nowadays, not only are lectures available online
+  [40] , it is also applicable to find reference e-books as well as multi-aspect documents on the cyberspace
+  [62] . As such, the Internet has grown to become the largest virtual library ever
+  [79] . Moreover, with the use of the Internet, distance and time seem to be no more a hindrance
+  [101] . College students can save their
+  [107] time browsing for necessary information through the
+  [114] web instead of spending hours wandering in bookstores or libraries
+  [127] . Last but not least, the Internet offers a more effective and practical method of studying
+  [145] . While virtual flowcharts and animations may simplify complicated scientific processes
+  [162] , Google and Wikipedia are always accessible for detailed responses to every query
+  [177] .
+
+Instance 78 (4 EDUs)
+  [0] In the near future, the Internet will become an indispensable part in academic training, for the enormous benefits that it brings about
+  [26] . Have you ever imagined what it would be like to stay at home and attend a lecture by a famous speaker in Finland simultaneously
+  [54] ? This fairy tale turns out to be true thanks to technical and internet advances
+  [72] .
+
+Instance 79 (6 EDUs)
+  [0] Critics may argue that the Internet have several drawback
+  [12] s which can affect the education system negatively
+  [21] , for instance internet abuse and black webs
+  [30] . However, we should bear in mind that these problems are mainly triggered by students' wrong approach towards the Internet not the Internet itself
+  [58] . Thus, what we are to do is a change in learners' attitude not an elimination of the Internet from academic study
+  [85] .
+
+Instance 80 (7 EDUs)
+  [0] After analyzing both points of view
+  [8] , I would like to reiterate the necessity of the Internet in learning process
+  [25] . It is obvious that the benefits of the Internet undoubtedly outweigh its disadvantages
+  [48] . However, it is not just the matter of help or hindrance
+  [62] , it is the way you use the cyberspace
+  [72] . Be wise and conscious
+  [79] .
+
+Instance 81 (6 EDUs)
+  [0] Early retirement for 55+ employees to help younger people\n\
+  [17] nNowadays the discussion about whether the businesses are supposed to prescribe the retirement age at fifty-fi
+  [42] ve to offer more job vacancies for younger generation has become a controversy
+  [59] . Some believe that is a perfect attempt to support the young
+  [71] , others claim that this is not the case
+  [80] .
+
+Instance 82 (10 EDUs)
+  [0] Admittedly, encouraging the workers to retire at age of fifty-fi
+  [20] ve to release the positions for younger job seekers has some merits
+  [36] . Firstly, fresh graduates are likely to bring a number of practical and applicable
+  [53] ideas to meet the current needs of the organisation
+  [62] . This is because they have been instilled and imparted the most updated knowledge and skills at universities
+  [84] . Secondly, having a larger proportion of young adults could enhance the working effectiveness and efficiency
+  [103] . Compared with aged staffs, younger employees are often physically stronger and
+  [122] energetic which enables them to carry out heavy work
+  [132] load to meet the deadline
+  [137] .
+
+Instance 83 (11 EDUs)
+  [0] However, sacrificing the senior
+  [6] members to save the young
+  [11] workers poses several negative influences
+  [17] . From personal level, it fosters a sense of unfairness between the older and younger generations
+  [39] . It is undeniable that every person within the business enterprise has the rights to proceed their
+  [58] work as long as they are capable of doing it
+  [68] , disregard the age and physical capacity
+  [77] . From social perspective, massively forcing the early retirement would be one of financial burden to the local government
+  [101] . For example, sufficient pension payments and regular medical care should be given and arranged for the senior citizen
+  [124] s after they have been imposed to terminate their employment permanently
+  [138] .
+
+Instance 84 (5 EDUs)
+  [0] In conclusion
+  [2] , even though the introduction of the early retirement has some benefits
+  [16] , it is convincing that it would generate a sense of discrimination among different age
+  [34] groups and increase the government financial pressure accordingly
+  [43] .
+
+Instance 85 (8 EDUs)
+  [0] Can technology alone solve the world's environmental problems?\n\
+  [14] nIt is irrefutable that progress in technology leads to environmental problems
+  [29] . Some individuals are of the opinion that if people live a simple
+  [42] life and do not use the things that technology has brought
+  [53] us then these problems can be solve
+  [60] d whereas others opine that only technology can solve these problems
+  [73] . In the following paragraphs, I intend to discuss both viewpoints
+  [88] .
+
+Instance 86 (10 EDUs)
+  [0] Some people say
+  [3] that if humans stop using
+  [8] technology and lead a simple way of
+  [15] life then only we can save the environment
+  [23] . They argue that it is the luxuries people use which damages the environment
+  [41] . If people don't use air conditioners, automobiles and other such things that technology has brought us
+  [63] , then naturally there would be less
+  [71] pollution and natural resources like fossil fuels would be sa
+  [82] ved and all this would save the environment
+  [90] .
+
+Instance 87 (4 EDUs)
+  [0] On the other hand there are people who say that technology alone could save the environment
+  [16] . They opine that now we have come so far ahead in technology that there is no going back
+  [36] . We cannot ask the people of the jet age to go back to the age of the bullock cart
+  [58] .
+
+Instance 88 (11 EDUs)
+  [0] There are a lot of advances going on
+  [9] technology which are helping the environment a lot
+  [17] . One prime example is finding solutions to water problems in developing countries such as Africa
+  [33] . By pressurising sea water to produce vapour jets and filtering them through carbon nano tubes, we can get clean drinking water from sea water - an almost inexhaustible resource
+  [75] . Furthermore, Japan is working to build a working space solar power system by 2030
+  [93] . By drawing on the colossal energy of the sun, it could meet the entire world's electricity requirements indefinitely without nuclear or GHG emissions
+  [128] . If successful
+  [131] , the impact on the world would be monumental
+  [140] . It would mean energy for schools, hospitals, and homes
+  [153] . It would mean another industrial revolution
+  [160] .
+
+Instance 89 (5 EDUs)
+  [0] To put it in a nutshell, I pen
+  [10] down saying that, technology alone can solve the world's environmental problems
+  [24] . We are finally entering an era where engineering and technology are making the world a better place
+  [43] . It would be highly unpractical to ask people to adopt a simpler way of life
+  [62] .
+
+Instance 90 (4 EDUs)
+  [0] Computers replace human teachers\n\
+  [8] nWith the number of technological advances growing apace, it is generally believed that Internet and computers will supplant the traditional role of teachers in a not too distant future
+  [45] . This idea may point out to two main directions, both of which present different arguments
+  [64] .
+
+Instance 91 (4 EDUs)
+  [0] Central to the supporting arguments of this issue is the idea that the global online network is the inexhaustible source of information, which definitely exceeds the fund of knowledge that any veteran teacher can accumulate
+  [44] . Internet and computer also offer a more comprehensive access to knowledge, ranging from visual to aural stimuli
+  [66] , which make learning an ever enjoyable experience, especially for children
+  [79] .
+
+Instance 92 (13 EDUs)
+  [0] On the other hand, critics of this idea
+  [10] maintain
+  [11] that although the educational benefits that the Internet may yield are undeniable
+  [26] , there still remain certain shortcomings
+  [34] . Much information as the Internet may provide
+  [42] , most of the sources are unjustified by experts
+  [53] . As a result, information from those sources is subject to question
+  [66] . Admittedly, the computer can show whether an answer to a particular question is right or
+  [86] wrong but it cannot give as an in-depth explanation as a human teacher can
+  [102] . Through face-to-face communication, teachers can also pinpoint the weaknesses of each
+  [123] student and therefore, adjusting and tailoring his or her teaching methodology to meet the levels or the demands of those students
+  [150] . This is where the computer proves to be incompetent
+  [162] .
+
+Instance 93 (6 EDUs)
+  [0] In short, although both sides have their equally valid arguments
+  [14] , I am inclined to
+  [21] think
+  [22] that although Internet can be a useful tool for education
+  [32] , at no time will the unique role of human teachers be replaced
+  [46] .
+
+Instance 94 (4 EDUs)
+  [0] One or two close friends vs. a large number of casual acquaintances\n\
+  [18] nThere is no need for me to put any emphasis on the advantage of having a large number of casual acquaintance
+  [42] . However, I still agree that it's better to have one or two close friends than to have a large number of casual acquaintances
+  [71] .
+
+Instance 95 (13 EDUs)
+  [0] We can not deny that being a friend with someone is different from only being acquaintant
+  [19] . First, it's not easy to make friend with anyone
+  [32] . I
+  [34] believe friends are people who have great compatibility with each other
+  [46] . After two years in college I have
+  [54] found sometimes there is more differences between people than similarities
+  [66] , for we are growing in the different
+  [74] families and was educated in various ways
+  [82] . Sometimes acquaintances are just acquaintances
+  [92] . We spend time
+  [96] together but we could never be friend
+  [103] . So, it's much easier to have some casual acquaintances than have some close friends
+  [123] .
+
+Instance 96 (20 EDUs)
+  [0] Second, close friends can easily understand each others feelings
+  [11] . Because of the similar
+  [16] ity I talked before
+  [21] , acquaintances probably not able to understand you better than your friends
+  [35] . Moreover, they wouldn't even spare time to consider your feelings
+  [51] . Everyone play the role of acquaintance and friend at the same time
+  [66] . Being friendly is a good way to treat a acquainta
+  [79] nce but way not enough for a friend
+  [87] . When my friend is sick
+  [93] , I would not only ask if he is okay like an acquainta
+  [107] nce but do my best to make him get well as soon as possible
+  [121] . If my friend is going to the wrong direction in his life trail
+  [135] , I will try my best to pull him back
+  [145] , but not
+  [148] stand and
+  [150] stare like it's not of my business
+  [159] . And I
+  [162] believe my friend will do the same to me
+  [171] . In conclusion, a friend is a person you care about
+  [183] .
+
+Instance 97 (6 EDUs)
+  [0] To me, friends are the most important people in my life second to my family
+  [16] . I am the kind of person who has only one or two close friends
+  [31] , and I am fully content that I have such nice friends
+  [43] . If someone exchange my friends with thousands of acquaintances
+  [55] , I will definitely say NO
+  [61] .
+
+Instance 98 (10 EDUs)
+  [0] Living in a higher pace is better\n\
+  [10] nThere is a hotly debated issue over whether people have to live at a higher or lower pace
+  [31] , and this topic can also be approached from several different angles due to its complexity
+  [50] . Some people tend to be hurry to complete their tasks
+  [63] , while others seem to prefer the opposite position
+  [72] . After deeply pondering over this issue
+  [81] , I also develop my own perspective
+  [88] . I favor the former
+  [93] ; that is, I prefer to live in a higher pace condition
+  [106] .
+
+Instance 99 (8 EDUs)
+  [0] The first and foremost reason lies in the inevitable fact that we need to save time for accomplishing some important tasks
+  [26] , and a fitting example of which can be found in my experience of missing exam
+  [43] . I just failed to participate in the university entrance
+  [55] exam because I thought I had enough time for eating breakfast and transporting to the testing place
+  [73] ; while I was stocked in a traffic
+  [82] jam and then missed the first test
+  [89] . Therefore, we can start to agree that we have to be eager in our lives
+  [107] .
+
+Instance 100 (10 EDUs)
+  [0] Apart from the one I have mentioned above
+  [8] , another equally important aspect is keeping in high pace condition can prevent me from getting lazy
+  [27] . If I can avoid being a sluggish person
+  [38] , I can have a higher probability of fulfilling my dream successfully
+  [53] . For instance, I had spent more time on practicing playing
+  [66] piano so that I won a piano competition
+  [74] , defeating
+  [78] those spending less time on practicing
+  [85] . Hence, from this case we are capable of stating that keeping our pace higher is important
+  [105] .
+
+Instance 101 (8 EDUs)
+  [0] Admittedly, on the other hand, there might be some people proclaiming that with a slower pace can enjoy their lives
+  [28] more because it is not necessary for them to notice the time
+  [40] control or acquire the fame of succeed
+  [47] . However, from my limited understanding, I just doubt the credibility of that saying
+  [64] . I do not think that those people with slower pace losing the piano
+  [80] competition can be really happy
+  [85] . In contrast, it is really joyful for me that I can immerse in the joy of the victory and accomplishment
+  [111] .
+
+Instance 102 (6 EDUs)
+  [0] Based on the reasons demonstrated above, I believe that living in a higher pace is
+  [18] better because the advantages of this are qualitatively greater than that of the opposite
+  [34] . In other words, I prefer to live in high pace
+  [46] . It is not to say, of course that other points of view are totally without merit
+  [64] . Still, I am firmly convinced that the reasons I proposed in favor of my own sentiment are much more tenable and plausible
+  [93] .
+
+Instance 103 (6 EDUs)
+  [0] Teachers lesson vs other sources\n \
+  [11] nThe way in which children today study is radically different from any previous generations
+  [28] , and the increased availability and relatively low price of modern technology has been instrumental in this change
+  [49] . Despite the argument of some people that learners can obtain more useful knowledge from teachers than from other sources
+  [71] , I firmly believe that both alternative sources and traditional teaching methods from educators are equally important in children's acquisition of knowledge
+  [99] .
+
+Instance 104 (13 EDUs)
+  [0] It is undeniable that the widespread of alternative sources of knowledge has played an important role in students' acquisition of knowledge
+  [27] . Computers can be programme
+  [33] d to provide an endless numbers of questions in diverse range of fields
+  [48] , and as the students answer these questions
+  [56] , the facts has been learned and reinforced
+  [67] . A case in point is the reading and listening parts of TOEFL iBT exams
+  [86] , as candidates have to answer many questions in a limited period of time
+  [101] . Moreover, when students have some academic problems
+  [111] , they can post those to some websites and receive correct answers from unknown people in faraway places without any costs
+  [136] . Besides, in the past, conducting a research require long hours of searching in library shelves
+  [159] , now all can be done at a click of a button
+  [171] . Thus, technologies are vital in students' learning
+  [182] .
+
+Instance 105 (5 EDUs)
+  [0] On the other hand, schools and university are places in which students gather to be educated and learn from each others as well as formal educators
+  [30] . At schools, students' development has been orchestrated stage by stage, step by step by experienced teachers
+  [51] , and their acquisition of knowledge is guided and backed up in a systematic way
+  [69] . Therefore, formal education approaches are also indispensable
+  [79] .
+
+Instance 106 (7 EDUs)
+  [0] To put it all in a nutshell
+  [8] , I pen
+  [11] out
+  [12] saying that alternative sources information and traditional education systems are equally important in children's development
+  [30] . So students should learn both from their teachers as well as modern
+  [43] technology to gain the best learning outcome
+  [50] .
+
+Instance 107 (6 EDUs)
+  [0] Protect animals or not?\n \
+  [10] nMany animals today are in danger of extinction owing to various reasons
+  [27] . While some people believe it is important to protect these endangered species
+  [42] , others argue that problems of human beings deserve more attention
+  [55] . In my opinion, we should give priority to our own issues
+  [69] .
+
+Instance 108 (6 EDUs)
+  [0] Animal protectionists may base their argument on the ground that biodiversity is essential to maintain the balance of ecosystem
+  [23] . If certain species are absent from this system
+  [32] , such kind of balance is likely to be disrupt
+  [42] ed and other species, including human beings, will come under threat
+  [56] . Therefore, it is our responsibility to keep as many species on the Earth as possible
+  [73] .
+
+Instance 109 (9 EDUs)
+  [0] However
+  [1] , I
+  [3] think species extinction is quite natural according to the theory of evolution
+  [18] . The environment on the Earth has been transformed many times since the first species came into being
+  [37] . A great number of plants and animals died
+  [48] out because they were unable to fit into the new environment
+  [60] . On most occasions, the process of extinction of some species is irrevoc
+  [78] able and we can do nothing about it
+  [86] .
+
+Instance 110 (7 EDUs)
+  [0] Furthermore, human beings nowadays are still faced with many urgent problems such as starvation, disease and wars
+  [28] . When these problems are taken into account
+  [36] , extinction of some animals recedes greatly in
+  [48] importance and it is not sensible to devote our limited resources to animals that have been past help
+  [67] . We should put our own survival and sustainment in order
+  [79] first before considering the conservation of other species
+  [88] .
+
+Instance 111 (3 EDUs)
+  [0] In conclusion, more emphasis should be laid on human beings other than animals
+  [16] , and it is better to let nature take its course with regard to species extinction
+  [34] .
+
+Instance 112 (5 EDUs)
+  [0] Improved medical care\n\
+  [8] nAlong with the development of technologies, advanced medical care has played an important role in the improvement of life expectancy
+  [33] . Although the increase in life expectancy has some pressure on the Medicare system
+  [50] , I am inclined to believe that the advanced medical care brings with it more benefits than disadvantages
+  [74] .
+
+Instance 113 (7 EDUs)
+  [0] The main advantage of high-tech medical care is that people are better taken
+  [15] care so that they have a good health
+  [23] . They can contribute effectively to the development of the
+  [33] economy because healthy workers can create more productivity
+  [43] . In other words, they do not have to spend more time in health checking or
+  [60] treatment so this saves an amount of time as well as cost
+  [73] .
+
+Instance 114 (4 EDUs)
+  [0] In addition, a community with the elderly who have a good health has a major role to play in a sustainable development of a society
+  [28] . In facts, young people will be happy as their parents, grandparents are healthy
+  [47] . It can be said that the improvement of medical care makes a better life for all people
+  [65] .
+
+Instance 115 (11 EDUs)
+  [0] On the other hand, some people maintain that the increase in life expectancy puts a high pressure on the economic
+  [24] system because more pension have to spend for Medica
+  [33] re instead of investing in other sectors of the economic system
+  [46] . Although it is real in some aspects
+  [54] , I
+  [56] believe that the capital that spend on taking care the elderly is contributed by these people during their working time
+  [79] , so they are
+  [83] worth to have good care
+  [88] . They have given their effort to the
+  [96] society so that young people, the governments have a responsibility to improve the Medicare system
+  [114] .
+
+Instance 116 (4 EDUs)
+  [0] By way of conclusion, it is true that the development of the health care system helps people have a better life
+  [22] . It helps people build a sustainable
+  [29] society where people can live a happy life when they are old
+  [41] .
+
+Instance 117 (10 EDUs)
+  [0] The opportunity to receive education from
+  [6] university\n\
+  [10] nThere are many factors that contribute to one's success
+  [22] . However, which factor is the most influential one is open to debate
+  [37] . Some people believe that nowadays the assitance from family is quite a essential factor in one's success
+  [61] . It seems that one can achieve success more easily with the help from his or her family
+  [79] . I agree with this statement
+  [85] . In my opinion, family plays a more important role in helping one to pursuit success
+  [104] . There are a couple of reasons
+  [111] .
+
+Instance 118 (15 EDUs)
+  [0] First of all, more and more people have the opportunity to receive education from university
+  [16] . Since our parents receive better education than our grandparents did
+  [29] , they can provide more advices and helps in our career
+  [41] . In the past, seldom people have the chance to attend a collage
+  [56] . For example, my grandparents did not get a education even in high school
+  [73] ,
+  [74] so when my father had difficulty in solving a problem in his childhood
+  [90] , he had to go to his teacher for help
+  [100] . Things have changed a lot
+  [106] . I grow up in a better condition than my father did
+  [118] . Whenever I have problems
+  [124] , I can always ask my parents for help
+  [133] . They can solve the problem
+  [139] quickly because they have learned quite a lot
+  [147] .
+
+Instance 119 (11 EDUs)
+  [0] What is more, family members can help us in many other aspects
+  [13] . For example, when I did not know what major to
+  [25] choose when I attend university
+  [30] , my father told a lot about different majors
+  [40] . He shared his own experience with me
+  [48] , which helped me quite a lot
+  [55] . Parents are quite experienced than their child
+  [64] , they can guide them toward the right direction
+  [73] . Besides, parents can told their children as many as they can
+  [87] . What they want is help their child to make a progress
+  [99] .
+
+Instance 120 (3 EDUs)
+  [0] In a word, our parents and other family members can help us a lot in our life
+  [18] . I believe that with the help of our family, we can achieve success quite easily
+  [35] .
+
+Instance 121 (11 EDUs)
+  [0] Living with a roommate is better
+  [7] than Living alone\n\
+  [13] nMany single people have difficulties deciding whether to live with a roommate or to live alone
+  [34] . Each makes different decisions
+  [39] . Some people choose to live alone for privacy
+  [48] , while others choose to live with a roommate for practical reasons
+  [61] . As far as I am concerned, I prefer to live with a roommate
+  [77] . This is because it saves me money
+  [86] , enables me to socialize
+  [93] , and allows me to get help
+  [100] .
+
+Instance 122 (11 EDUs)
+  [0] Living with a roommate saves me a lot of money
+  [12] . If you have roommates
+  [18] , you can split the rent and utilities among them
+  [29] . This means you can get more for less
+  [38] . For example, last year, I shared a room off-campus with my friend
+  [56] , and we decided to split the rent and heating bills into half
+  [71] : I was able to save about fifty dollars for heating, and two hundred dollars for rent monthly
+  [93] . I was able to save a lot of
+  [102] money by sharing wasted heating and rooms with my
+  [113] friend and splitting the bills
+  [120] .
+
+Instance 123 (14 EDUs)
+  [0] Apart from saving a lot of money
+  [8] , living with a roommate also enables me to socialize more easily
+  [23] . It is always easier to social
+  [30] ize when you have a lot of people around you
+  [40] . You can invite your roommates' friends over to your
+  [52] room and have fun together
+  [57] . For instance, one night, my roommate, Millan, brought his friends along
+  [75] . Even though his friends and I were total strangers to each other
+  [89] , we quickly got to know each other
+  [97] . We soon found out that everyone loved playing video games
+  [108] . We played a video game called 'Halo' together all night
+  [122] , and became good friends
+  [127] . Living with a roommate made socializing much easier for me
+  [140] .
+
+Instance 124 (15 EDUs)
+  [0] Finally, living with a roommate allows me to get help
+  [12] . It often is the case that your roommates have the skills or knowledge you need
+  [29] . When you run into a problem
+  [36] , you can ask your roommates if they can help
+  [47] . Some of them may have something to offer
+  [56] . To illustrate
+  [60] , when my computer mysteriously broke down
+  [71] , I dialed up the manufacture
+  [78] r and asked for help
+  [83] . They failed to give me any useful solutions
+  [92] . To my surprise, one of my roommates noticed my
+  [104] problems and offered to help
+  [109] . He was very good with computers
+  [117] , and he managed to fix the problem quickly
+  [126] .
+
+Instance 125 (8 EDUs)
+  [0] In conclusion, while many people decide to live alone for various reasons
+  [13] , I prefer to live with a roommate
+  [22] , and I always will
+  [27] . This is because it offers me many advantages, such as less spending, more socializing, and more help
+  [50] . I
+  [52] think single people should live with a roommate
+  [61] , if they want to enjoy their lives
+  [69] .
+
+Instance 126 (7 EDUs)
+  [0] Some people believe that there should be fixed punishment for each crime type\n\
+  [18] nGenerally reason behind punishment is to reduce the crime from a
+  [33] nation and to build a fear in the mind of offenders
+  [45] . Some people think that it does not matter what is reason behind committing a
+  [62] crime therefore there should be fixed punishment for a specific crime
+  [75] . Alternatively I believe that it should taken into consideration the situation and conditions, that forces to a person to be a criminal
+  [100] .
+
+Instance 127 (14 EDUs)
+  [0] First of all if there will be a fixed punishment for each type of
+  [16] crime then it will lead to increase the
+  [24] crime because the punishment will be clear in the mind of professional criminal
+  [39] s and they will not feel
+  [45] fear while committing a crime
+  [52] . Secondly, laws and rules are there for
+  [62] people therefore it is necessary to have a look behind
+  [72] crime for instance "a
+  [77] women steals feed for her
+  [83] child should be treated same as a women
+  [91] , who steals for her drug addiction
+  [99] ". The person who committed crime first
+  [106] time and the professional criminals should not be imprisoned at same place
+  [122] .
+
+Instance 128 (14 EDUs)
+  [0] On the contrary, fixed punishment will reduce the time taken by judge
+  [16] s to give their judge
+  [21] ment and it will be effective economically for the Government
+  [32] . Everyone should be treated equal
+  [38] ly because sometimes we see that a poor
+  [46] person who do not have much
+  [52] money for hiring a good
+  [58] lawyer they get imprison
+  [64] ed even without committing a
+  [71] crime and when they come back to the
+  [79] society they become a professional criminal
+  [85] . Therefore fixed punishment will reduce the space between poor and rich
+  [99] people and everyone will understand the importance of each other
+  [109] .
+
+Instance 129 (5 EDUs)
+  [0] To conclude
+  [2] , Government should decide for punishment case by case basis
+  [14] . In doing so crime can be eliminated from a
+  [25] nation and it is a responsibility of every individual to be in the favor of truth and respect the laws of our constitution
+  [48] .
+
+Instance 130 (6 EDUs)
+  [0] A more convenient life in a city\n\
+  [10] nThere are undeniable advantages to both life in a big city and in a small town
+  [30] . The former offers more excitement and conveni
+  [38] ence while the latter offers a cleaner, quieter and often friendlier place to live
+  [57] . However, despite the advantages of small town life, I prefer to live in a big city for several reasons
+  [81] .
+
+Instance 131 (7 EDUs)
+  [0] On the one hand, I have always wanted to find a job in a big
+  [16] company which locates in a prosperous city area
+  [26] . To make it convenient
+  [31] , I will absolutely choose a place to live that is not too far from my workplace
+  [49] . What's more I can save plenty of money on transport
+  [62] ation if I choose to live in the city
+  [71] .
+
+Instance 132 (10 EDUs)
+  [0] On the other hand, life in a big city will not be so dull as in a small town
+  [21] . You can enjoy modern
+  [26] life and have more access to the advanced facilities
+  [35] . For instance, you can visit museum
+  [43] s to learn history
+  [47] , and go to a more equipped library to enjoy reading
+  [60] , or you can go to a sports center for exercising
+  [72] . But a small town may be less
+  [80] developed to satisfy all these kinds of needs
+  [90] .
+
+Instance 133 (12 EDUs)
+  [0] Furthermore living in big cities means more exposure to stimulation, like all kinds of information
+  [20] . If one can efficiently acquire the information
+  [29] , then, there might come along more opportunities for him to achieve his goals
+  [44] . For example, there are various advertisements here an there
+  [56] , whether on the leaflets or on the big
+  [68] screen showing things of all sorts in commercial zones
+  [78] . If one is seeking a job right in the
+  [88] city or planing somewhere to travel
+  [95] , or just wants to buy a product in a dependable store
+  [108] , he might refer to what he has seen or heard from the advertise
+  [122] ments to make a relatively wise choice
+  [131] .
+
+Instance 134 (8 EDUs)
+  [0] There is also another obvious advantage of living in a big
+  [11] city considering the chance of receiving better education of our offspring
+  [23] . Schools in big cities may receive more funds from whether the local comities or the government
+  [43] , which may make them more equipped with advanced teaching
+  [54] facilities and attract more excellent teachers
+  [60] . Our children thus will have a better chance of pursuing high-quality
+  [77] education which is very important for their future development
+  [86] .
+
+Instance 135 (4 EDUs)
+  [0] In conclusion, if I want to live a more convenient life with more access to modern facilities as well as with more exposure to various opportunities
+  [27] , and have my children receive a better education
+  [36] , a big city is the place to live in
+  [46] .
+
+Instance 136 (6 EDUs)
+  [0] The precondition of doing research by professors\n\
+  [12] nNowadays, many professors conduct research while teaching in colleges or universities
+  [30] . Although research could bring funding and latest achievements in the field
+  [43] , the research takes up too much teaching time
+  [52] . As far as I am concerned, professors should spend more time on preparing courses than research
+  [72] .
+
+Instance 137 (14 EDUs)
+  [0] To begin with
+  [3] , it is vital that professors should assist students to acquire knowledge
+  [16] . The professors' duty is to nurture students
+  [28] , and prepare excellent courses
+  [33] . If professors spend a lot of time on research
+  [44] , he will cut the time on preparing
+  [53] courses is reduced
+  [57] , which may decrease the quality of classes
+  [65] . The reason why people enter a university is that they want to learn cutting-edged technologies
+  [85] . In this way, professors should provide well-preparation
+  [99] courses to convey the state-of-art knowledge for college and university students
+  [115] . Therefore, professors should pay more attention on how to teach
+  [128] students rather than conduct research
+  [133] .
+
+Instance 138 (11 EDUs)
+  [0] On the other hand, if professors are busy in doing research
+  [13] , ignoring preparing appropriate courses for students
+  [22] , it would ruin the reputation of universities
+  [31] . Students are unsatisfied with the unprepared course
+  [46] , and the enrollment of universities may decline
+  [57] . Many students would not choose these kinds of universities to study
+  [71] . In this way, hardly can professors find assistant
+  [83] s to help with projects
+  [88] . It is adverse to the whole academic field
+  [98] . Accordingly, spending more time to nurture excellent students is more consequential to professors, rather than research
+  [121] .
+
+Instance 139 (13 EDUs)
+  [0] Nevertheless, professors could teach students through research and projects
+  [13] . Some students enjoy taking part in some research
+  [22] . Through to use the equipment and invent their own work
+  [33] , they may get more experience in the process of research
+  [44] . For instance, electronic students always invent new machines such as robots, MP3 and remote control car
+  [65] . They can manage the electric theory in practical skills
+  [75] . And some students will be rewarded by investing new inventions
+  [89] . However, only under specific circumstance, when students master all of the systematic knowledge
+  [106] , can they accomplish research
+  [111] . This is
+  [114] requires professors provide high quality courses
+  [121] . In other word, professor should concern about preparing class
+  [133] .
+
+Instance 140 (5 EDUs)
+  [0] Consequently, conducting research is helpful for professors and students to some extent
+  [19] . However, the precondition of doing research is growing students' solid theory fundamental
+  [35] . Only by developing students, can we have a better academic field
+  [48] . Professors could combine doing research and preparing good courses in a dynamic way
+  [64] .
+
+Instance 141 (7 EDUs)
+  [0] Apartments vs dormitories at university\n\
+  [9] nMany students prefer to live in the university dormitor
+  [20] ies while others prefer an apartment in the city
+  [29] . Both options have their advantages and disadvantages
+  [41] . After considering the level of freedom, the studying conditions and the economic factor
+  [57] , if I had to choose, I would prefer to live in an apartment in the community rather than in the university dormitories
+  [82] .
+
+Instance 142 (12 EDUs)
+  [0] First, an apartment provides a lot more freedom than a dormitory
+  [13] . While in a dormitory you have to obey preset rules
+  [27] , in the apartment you set your own rules
+  [36] . You are free to have visits at any
+  [46] time or to be left alone if you want
+  [55] . An apartment offers more
+  [60] privacy because you can choose to have your own
+  [69] room instead of sharing with another student
+  [76] . This is an important
+  [81] factor because you also get more
+  [87] space than you would in a dormitory
+  [95] .
+
+Instance 143 (10 EDUs)
+  [0] Second, from an economic point of view, people often argue that an apartment is more expensive
+  [19] . This is only partially true
+  [26] , you could rent the extra rooms in the apartment to other
+  [38] people and rent would be a lot cheaper
+  [47] . Transportation is another issue
+  [53] , you have to go to and return from the university everyday
+  [65] . You could choose to use public transportation, a cheaper option, or to have a car
+  [85] . The car is an expensive option
+  [92] , but also offers freedom of schedule and destination
+  [101] .
+
+Instance 144 (13 EDUs)
+  [0] Lastly, the studying conditions are better in an
+  [11] apartment because you don't have all the noise and distractions that you often have in dormitories
+  [32] . A lot of students often complain about their roommate playing music too lo
+  [47] ud or bringing friends over at inappropriate times
+  [57] . Since in an apartment you don't have a roommate
+  [70] , you won't have this problem
+  [78] , and as a result you would be able to concentrate better
+  [91] . For the same reason, you won't have a
+  [103] problem if you are the one who wants to play music, bring friends over, or study late at night
+  [124] . You set your own schedules
+  [131] . In the other hand, living in a dormitory, and being surrounded by students also has some advantages
+  [155] , like being able to get help with any academic issues from them
+  [168] .
+
+Instance 145 (3 EDUs)
+  [0] To conclude, both options have their advantages
+  [9] , but personally I think the advantages of living in an apartment outshine those of living in a dormitory
+  [32] .
+
+Instance 146 (6 EDUs)
+  [0] Why are groups or organizations important to people?\n\
+  [13] nDuring our life, it is inevitable that we may be related with any groups or organizations
+  [33] ; therefore, groups and organizations are an important part of their lives
+  [47] . In my point of view, groups provide a place for people to gain experiences or achieve goals
+  [66] . My reasons include the following
+  [72] :
+
+Instance 147 (14 EDUs)
+  [0] In the first place, humans are a part of the society
+  [12] , and the society includes a wide variety of groups
+  [22] . Most of all, the groups play an essential role in the process of socialization, from children to adults
+  [44] . We begin taking part in groups or organizations during the early days of life
+  [60] , and especially most people continue their social participation in all through life
+  [73] . By making teamwork
+  [78] , the children in schools may learn to how to get along with others
+  [92] . As university students, it is likely for them to join student organization of their
+  [108] major in order to expand their
+  [114] experiences or communicate with others
+  [121] . After graduating from schools
+  [127] , employees might go to business associations for various business resources and benefits
+  [140] . Thus, almost of us live in the environment of groups
+  [153] .
+
+Instance 148 (12 EDUs)
+  [0] By participating in an organization, it is a positive way for people to obtain some experiences on a particular purpose
+  [22] . A solid group can be a suited environment
+  [32] , which provides people to improve themselves or broaden their horizons
+  [46] . For example, as a student majoring in mass media
+  [58] , I have taken part in mass media student group for a year
+  [71] . When being in the department of art
+  [79] , I have not only learned how to do a project
+  [90] , but also known some famous artists during the term
+  [101] . Above all, it is
+  [108] advantage which increase an opportunity on my
+  [115] resume for the sake of getting a better job
+  [124] .
+
+Instance 149 (12 EDUs)
+  [0] Furthermore, groups and organizations would lead people to take action or achieve their goal
+  [18] . Here is an example
+  [23] : there are various charities in the world
+  [32] . Tzu Chi, a non-profit Buddhism organization in Taiwan, is famous for contributing to the social and community services, and medical care
+  [63] . They bring hope
+  [67] s and inspire others with their generous spirit
+  [77] . For accomplishing their missions
+  [84] , the charity should gather
+  [91] people who are volunteers and sponsors for those difficult tasks
+  [104] . As a result, they lit the light for the poor and victims
+  [119] ; in addition, they could have chance to help the people in need from all over the world
+  [138] .
+
+Instance 150 (3 EDUs)
+  [0] For the above reasons and examples
+  [7] , it could be widely thought that groups or organizations are a vital part for us in plenty of aspects in different ages and in different backgrounds
+  [38] .
+
+Instance 151 (9 EDUs)
+  [0] Should the Government Provide Free College?\n\
+  [10] nSome people believe that the government should cover the college tuitions and expenses for any
+  [29] citizen who wants to go to a college
+  [37] . However, I
+  [41] believe that individuals should pay their college tui
+  [49] tion because it would cost too much
+  [56] , the college education is a personal's choice
+  [66] , and there are many ways to fund a college education
+  [77] .
+
+Instance 152 (11 EDUs)
+  [0] First, making college education free would cost too much
+  [10] . It would divert public funds from other needs such as law enforcement, infrastructure and so forth
+  [31] . There are many other
+  [36] needs which should come first
+  [41] , such as providing health care to all American
+  [50] , or improving public schools
+  [55] . In addition, it would cause to raise our taxes again and
+  [68] again to fund college education
+  [73] . Consequently, it would affect all taxpay
+  [86] ers whether or not they benefit from the use of the funds
+  [99] .
+
+Instance 153 (5 EDUs)
+  [0] Second, it is a personal choice to go to a college
+  [12] . Not everyone wants to go to a college
+  [21] . People who want to make more money, and live a better life than other people decide to take a college education
+  [44] . Therefore, those people should make the financial investment in their own choice; not the government
+  [62] .
+
+Instance 154 (9 EDUs)
+  [0] Third, there are many ways to fund a college education
+  [11] . People who cannot afford to pay their tui
+  [20] tion benefit from the scholarship, financial aids, and other funds
+  [35] . In addition, the government already helps pay college expense through indirect means
+  [50] . They often provide services such as fire departments, medical assistance, and police protection for the schools and their students
+  [73] . They also provide funds for academic research
+  [82] . While the money is not given to individual students
+  [92] , these contributions are not trivial
+  [101] .
+
+Instance 155 (4 EDUs)
+  [0] In short, the individual should finance his or her
+  [10] education because it is a personal choice
+  [17] . Otherwise, it would cause too much cost from taxpayers and the government
+  [34] .
+
+Instance 156 (5 EDUs)
+  [0] Where to learn a new language
+  [6] ?\n\
+  [10] nAlthough there are some advantages to learning a foreign language in its original country
+  [27] , I firmly believe that people who learn a foreign language in the country in which it is spoken have a deeper understanding of different language skills than those who learn the same languages in their own countries
+  [69] .
+
+Instance 157 (6 EDUs)
+  [0] Person 'A' who learns a non-native language in his country may receive benefit from a step-by-step teaching method
+  [28] . In other words, he is not jumping into the foreign country
+  [42] . Therefore he can set aside enough time and energy dedicated to learning the language
+  [58] . Besides, all the learners are probably from the same country
+  [72] , so all these people most likely have learned the language, more or less, in the same way
+  [92] .
+
+Instance 158 (8 EDUs)
+  [0] On the other hand, when a new learner wants to learn a new language in the country in which it is spoken
+  [25] , he has the opportunity to communicate with natives
+  [37] . He may find native
+  [43] friends and may participate in groups where members are people from the foreign country
+  [58] . No doubt, it leads to better understanding of language essential skills
+  [72] . He also has access to the most up-to-date language
+  [86] . Thus he can learn most useful idioms, proverbs and so many other things which the former person, person 'A', does not have access to
+  [119] .
+
+Instance 159 (8 EDUs)
+  [0] On the whole
+  [3] , if I wanted to learn a new
+  [11] language and had enough money to afford the travel
+  [20] , I would definitely make the second choice
+  [28] . There are lots of evidences show that communication is the most important factor in learning a new language
+  [48] . When you are exposed to an environment where everybody talks to you in the new language you want to learn and expects you express words from the same language
+  [81] , you are forced to learn it as soon and good as possible
+  [94] .
+
+Instance 160 (4 EDUs)
+  [0] In a word
+  [3] , although each of these methods have their pros and cons
+  [15] , I am pretty sure that advantages of learning language in the country in which is spoken outweigh the advantages of the other way of learning of a new language
+  [50] .
+
+Instance 161 (7 EDUs)
+  [0] Spending time with a large number of friends can add more to one's life\n\
+  [20] nDespite friendship is one of the most important values in a man's life
+  [37] , people might have different preferences
+  [44] : some of them prefer to spend time with one or two close friends
+  [58] , while other prefer to be surrounded by a large number of friends
+  [73] . In my view, I prefer the second attitude
+  [83] .
+
+Instance 162 (5 EDUs)
+  [0] The first reason is that staying in contact with a large number of friends gives the opportunity to learn more from the others' experiences
+  [26] . For instance, among a large number of people there could be someone who practices a particular sport, or plays an
+  [51] instrument or likes traveling very
+  [58] much and from their experiences you can be attracted to try something new that you had never considered before
+  [78] .
+
+Instance 163 (7 EDUs)
+  [0] Of course, while differences give the opportunity to learn
+  [11] , they can also mean that sometimes it can be difficult to reach an agreement
+  [26] . This would not
+  [30] happen or at least would happen rare
+  [37] ly if one decides to spend time with one or two close friends
+  [51] . In fact, in this case it is more likely that interests and preferences are the same
+  [71] .
+
+Instance 164 (7 EDUs)
+  [0] Another reason is that a large number of friends can help you to consider all the possible solutions to a
+  [20] problem and to make you more open-minded
+  [30] . For example, if you happen to face a
+  [40] problem and ask them for advice
+  [46] , your friends you will see that issue from their different point of
+  [59] views and accordingly they will help you to consider better all advantages and disadvantages
+  [78] .
+
+Instance 165 (6 EDUs)
+  [0] When you have just few close friends
+  [7] , on one hand you develop a more intimate relationship with
+  [19] them and you feel you can trust them more
+  [28] , but on the other hand they often will give you viewpoints not so different from yours
+  [48] , adding less to your experience
+  [54] .
+
+Instance 166 (4 EDUs)
+  [0] In sum
+  [2] , although each choice - few close friends or a large number of friends - presents its advantages and its weak points
+  [27] , I think that spending time with a large number of friends can add more to one's life
+  [47] .
+
+Instance 167 (6 EDUs)
+  [0] Public transportation keeps society from the depletion of natural resources\n\
+  [17] nThe development of public transportation is the most essential thing for a developed society
+  [33] . Public transportation keeps society from the depletion of natural resources, the air pollution, the loss of a sense of community
+  [60] . So, I
+  [64] think the government have to spend more money on improving it
+  [75] .
+
+Instance 168 (12 EDUs)
+  [0] The use of public transportation is the best
+  [9] way to conserve natural
+  [13] resources gradually run out
+  [18] . Cars depend on oil and gaso
+  [27] line to move
+  [30] . If people use too many private cars
+  [39] , the oil and gasoline nonrenewable will run out quickly
+  [54] . Instead of using many private cars
+  [62] , people can use public transportation, such as bus, train, subway
+  [78] , each one can get far more
+  [85] people and less oil and gasoline are used up per person
+  [98] .
+
+Instance 169 (13 EDUs)
+  [0] The use of public transportation helps in reducing the air pollution
+  [13] . Cars use oil and gaso
+  [21] line and send out gas such as carbon dioxide, heat and so on
+  [37] . They cause
+  [40] pollution and make the Earth warmer
+  [47] . The more cars are driven
+  [55] , the more pollution will be put into air
+  [64] . If we use the public transportation
+  [72] , less cars will be
+  [78] used and less pollution will be emitted
+  [86] . The atmosphere, surrounding us, will be
+  [95] protected and help us more healthy
+  [101] .
+
+Instance 170 (9 EDUs)
+  [0] The use of public transportation make us live more sociable
+  [12] . When we drive a private car
+  [19] , we are alone or only our family
+  [27] members that we already
+  [31] know and lost the opportunity to make friends with
+  [40] others or to see that we are a part of this society
+  [52] . When using public transportation
+  [58] , we have a chance to meet more people and more chances to discovery new aspects of life
+  [77] .
+
+Instance 171 (4 EDUs)
+  [0] Using public transportation has a lot of advantages for the modern society facing a lot of problems: the environmental population, the isolation in life, the depletion of natural resources
+  [39] . So, the government have to invest more for
+  [49] it and encourage people to use
+  [55] .
+
+Instance 172 (9 EDUs)
+  [0] Some students prefer to study alone\n\
+  [9] nEveryone has their method to success in life
+  [19] . At school or university, success depends on how we study
+  [32] . Some students benefit a
+  [37] lot when they study with groups
+  [43] . Yet, I prefer to study individual
+  [51] ly because it helps me to concentrate more
+  [60] , and it helps me to build my personality
+  [70] .
+
+Instance 173 (9 EDUs)
+  [0] Studying alone helps us to focus more in our lessons
+  [11] . For instance, I am a type of person who cannot comprehend my subject
+  [26] s unless I am alone
+  [31] . I can prepare my schedules, guidelines, exercise
+  [42] s and go over them all
+  [48] . Moreover, we have a lot of subjects which require us to sit and study alone such as math, reading, and drawing
+  [75] . In my opinion, I can take advantage of every minute without was
+  [89] ting by studying alone
+  [94] .
+
+Instance 174 (8 EDUs)
+  [0] Additionally, we are building our personal
+  [10] ities when we study alone
+  [15] . For example, answering our homework alone encourages us to be more responsible and independent
+  [34] . Also, it motivates us to be accurate in our work in the future
+  [50] . Personally, when I fix my study plan with a specific time and finish it on time
+  [69] , it improves my ability in the
+  [77] future to become more precise and careful
+  [85] .
+
+Instance 175 (9 EDUs)
+  [0] To conclude, there are many ways to
+  [8] study and it is our right to choose which is suitable for our
+  [21] characters whether alone or with group
+  [27] . In fact, I agree with the idea of studying a lo
+  [41] ne since it helps me to focus
+  [48] more and establish my personality
+  [54] . Success needs us to work hard and sacrifice
+  [63] more whether we choose to study alone or with group
+  [73] .
+
+Instance 176 (8 EDUs)
+  [0] Some important characteristics of a co-worker\n\
+  [14] nAt work, you meet people with diverse background
+  [24] s and you are required to maintain sound relationships with many of
+  [36] them in order to have a pleasant work environment
+  [45] . However, the relationship you need to maintain with your co-worker is the most important
+  [64] one since he or she is the person who works very closely with you, and in most instances you have to rely on him or her
+  [94] . Therefore in my view, a good co-worker needs to have three most important characteristics such as cooperation, trustworthiness, and fellowship
+  [128] .
+
+Instance 177 (22 EDUs)
+  [0] The co-workers should be cooperative with one another
+  [12] . If they do not cooperate
+  [19] , there will be lots of disputes
+  [27] . I once had a co-worker who was too family conscious
+  [42] . Therefore he always left office sharp on
+  [50] time without giving any
+  [54] consideration whether the work has been finished or not
+  [63] . Most of the time, I had to do his
+  [74] work in order to protect him from getting caught to the super
+  [86] visor who was a very authoritative person
+  [95] . However, one day I wanted to be off
+  [105] early because I had to take my mother to the doctor
+  [116] . When I requested my co-worker to give a helping
+  [130] hand to finish my work early
+  [136] , he turned down my
+  [141] request giving a silly excuse
+  [147] . From that day onwards I did not offer him any
+  [160] support and finally he was transferred from our department to a distant location as a punishment for his irresponsibility
+  [185] . Therefore, I
+  [189] believe if the co-workers do not corporate with each
+  [201] other that would be devastating in a work environment
+  [211] .
+
+Instance 178 (11 EDUs)
+  [0] The co-workers need to trust each other
+  [10] . They should not act on suspicion
+  [19] . This is a very important aspect in the work environment
+  [30] . I came across a situation once such that one of my subordinates used to suspect his co-worker for carrying tales to me
+  [58] . To a certain extent his suspicion was
+  [68] valid as his co-worker made several attempts to highlight the drawbacks of him
+  [87] . However I never encourage tale carriers as a princip
+  [99] le and therefore his co-worker gave up talking ill against him with me
+  [115] . But this mistrust
+  [120] continued and created very unpleasant situations for everybody in my department
+  [134] .
+
+Instance 179 (7 EDUs)
+  [0] Finally, the co-workers should believe in fellowship
+  [12] . This helps them to enjoy their work
+  [20] life while building up very strong personal relationships
+  [28] . After all, you spend most of your day at office
+  [40] . If you have a good company in office
+  [49] , it is certainly a blessing
+  [56] .
+
+Instance 180 (7 EDUs)
+  [0] Distance learning and online computer classes should replace classroom\n\
+  [13] nDuring these digital age, the online classes has become more interest and more common in the society
+  [33] . Almost every school develops their online class systems
+  [44] . One question I always thought about is whether online computer classes should replace classroom learning
+  [60] . Although, online classes have many advantages
+  [69] , for me, I prefer traditional learning classes for several reasons
+  [81] .
+
+Instance 181 (6 EDUs)
+  [0] First, the participant with the others like classmates or professors is still an important factor in studying
+  [21] . Working in group leads to more discussion and more opinion among the class
+  [37] . Consequently, the discussion class results in expanded children vision and their respect to others roommate's ideas
+  [63] . Unlike the distance
+  [68] learning that children have few opportunities to discuss with their friends
+  [79] .
+
+Instance 182 (9 EDUs)
+  [0] Second, classroom learning provides other activities than studying
+  [10] . During student's free time, they have a number of activities that they can join
+  [28] , such as playing sports, going to lab, or going to library
+  [43] . These activities lead to
+  [48] more interact with their friends
+  [53] . Connection with friends improves their IQ abilities
+  [64] , furthermore, they have a chance to learn about their societies
+  [78] . While the online course keeps the children at their home only
+  [91] .
+
+Instance 183 (11 EDUs)
+  [0] Lastly, in school, there are professors that guided
+  [13] you during you had a problem or needed an advice
+  [23] . The professor provides good answers to you
+  [32] . They do not mind helping you
+  [39] , and they never leave you
+  [45] alone when you got a problem
+  [51] . In contrast, in distance learning, these aspects of the professor had reduced their important
+  [69] . The professor has been assigned to teach only
+  [79] . Moreover, there will be a long response from the
+  [91] teachers when children ask them a question
+  [98] .
+
+Instance 184 (3 EDUs)
+  [0] In conclusion, traditional learning still has many benefits to the students
+  [12] . But in the future, it seems that the distance learning become more popular and ordinary in schools
+  [32] .
+
+Instance 185 (7 EDUs)
+  [0] Non academic subjects should be removed from syllabus\n\
+  [14] nStudents have become more and more stressed during the last few years due to the increase in academic task
+  [36] s assigned by their
+  [41] teachers to improve their academic success
+  [47] . While some people believe that non-academic subjects should be completely removed
+  [64] , I strongly disagree with that
+  [71] .
+
+Instance 186 (11 EDUs)
+  [0] To begin with
+  [3] , from the health point of view
+  [10] , schools should not only deliver academic subjects
+  [19] . If physical education is removed from the syllabus
+  [30] , there will be considerable negative effects on students' health
+  [41] . For instance, after studying and sitting in the classroom for the whole morning
+  [57] , it is better for students to do some outdoor activities, such as stretching, jogging and playing ball games
+  [80] , in order to improve their learning ability during the afternoon classes
+  [92] . Removing physical classes from school education will not only be harmful to young people's health
+  [114] , it will also decrease their learning capability
+  [123] .
+
+Instance 187 (7 EDUs)
+  [0] In addition, schools are responsible for developing their students into well-rounded people
+  [16] . It is more important for a person to success in life than to success only academically
+  [34] . Success in life should be the ultimate goal of a student
+  [47] , which requires more than academic knowledge, but also practical life skills such as cooking, good communication skills and teamwork spirit
+  [71] . Thus, school education should not only focus on the academic development of a
+  [87] student as it is much more crucial to teach them how to be independent and live a good life
+  [106] .
+
+Instance 188 (5 EDUs)
+  [0] Some people may argue that students can learn practical skills after school hours from their parents
+  [17] . However, I believe that it is not a good
+  [28] idea because most young people would rather watch TV or play computer games after school instead of learning life skills from their parents
+  [51] . Moreover, parents are usually too busy with their daily jobs to teach their children the life skills
+  [71] .
+
+Instance 189 (4 EDUs)
+  [0] In conclusion, I strongly
+  [6] believe that non-academic subjects are as essential as academic subjects for a student's development
+  [28] . Therefore, schools should not remove these subjects
+  [38] .
+
+Instance 190 (10 EDUs)
+  [0] Follow the New Customs of the New Country or Not?\n\
+  [15] nWhen people move to another country
+  [22] , most likely, they will face the choice between following the customs of the new country or keeping their original one
+  [45] . Some people choose the former
+  [51] one to assimilate themselves into the new culture
+  [61] , while some insist the latter
+  [68] one because the new customs are difficult to be accepted
+  [80] . As for me, I would follow the new customs
+  [92] , if I migrated to another country
+  [100] .
+
+Instance 191 (14 EDUs)
+  [0] On one hand, it will be easier for people to assimilate into a new country
+  [18] , if they follow the new customs
+  [26] . When people migrate to a new country
+  [35] , they are likely to suffer the culture shock
+  [44] , because of the difference between two cultures
+  [53] . The custom is just a form of the
+  [62] culture and following the custom is a good way to know more about this culture
+  [77] . For example, if one wore in
+  [86] white and went to common Vihara
+  [93] s to observe a rather longer-than-usual, full-length Buddhist sutra in Buddha's Birthday in India
+  [119] , he or she would learn something about Indian religion and culture
+  [131] . As a result, people understand the culture
+  [140] , and then they adapt to the new country
+  [149] .
+
+Instance 192 (22 EDUs)
+  [0] On the other hand, keeping own customs stably might cause discrimination
+  [15] . When people insist to keep their own custom
+  [24] s and refuse to accept the new one
+  [32] , they regard themselves as a special group in the new country
+  [44] . The local people may also regard them as a special group as
+  [57] well and separate them from the main-stream society
+  [67] . One example of this is that the Chinese immigrants in Indonesia in 1969
+  [82] . They formed China
+  [87] town and kept Chinese language and customs in it
+  [97] . While the Indonesians stopped working at 4:00
+  [107] pm and went home for rest
+  [113] , Chinese immigrants were still working
+  [120] . Although being much richer than local people
+  [129] , they faced the discrimination
+  [136] . Their houses and private cars were buried by local people
+  [151] , because the locals were jealous of Chinese people
+  [163] , who had so much wealth
+  [169] , which should have been theirs
+  [176] . If the Chinese immigrants had followed the local customs and assimilated into Indonesia
+  [194] , they would not have been regards as a group of
+  [206] Chinese and discrimination might have been alleviated
+  [216] .
+
+Instance 193 (2 EDUs)
+  [0] All in all, the immigrants should follow the customs in the new country, which can help them survive from the culture shock sooner, and assimilate to a new culture
+  [37] .
+
+Instance 194 (5 EDUs)
+  [0] School memories\n\
+  [6] nEveryone has happy moments during their life
+  [15] . These happy moments are both in their childhood and their adulthood
+  [29] . In my opinion, childhood is the happiest time of a person's life
+  [48] .
+
+Instance 195 (16 EDUs)
+  [0] First, in childhood most people are happier than in adulthood
+  [14] . They do not have to worry about bills, jobs
+  [26] , how would their life be in the future
+  [35] . They just worry about two things
+  [42] : to have fun, learn and be happy
+  [51] . A child's daily life is school, playing and sleeping
+  [64] . For example, when I was young I just came home from
+  [77] school and then I would took my bike or soccer
+  [88] ball and go out and play with my friends in my neighborhood
+  [100] . Moreover, I did not have to worry about costs and other things
+  [115] , I just had fun and learned
+  [122] . Also, people are most
+  [128] creative when they were children
+  [133] , children imagine new things and
+  [139] games just to have fun and be happy
+  [147] .
+
+Instance 196 (11 EDUs)
+  [0] Second, childhood is the period where people go to school and learn
+  [14] . Therefore, school memories are one of the best memories in a person's life
+  [33] . There you learn
+  [37] , to find your first love
+  [43] , to make new long-lasting friendship
+  [51] s and of-course you will have a lot of fun
+  [64] . For example, my father's best moments in his life are in his school years
+  [82] . Moreover, he is still in-touch with some of his class
+  [97] mates and sometimes they get
+  [102] together and share their childhood memories
+  [110] .
+
+Instance 197 (4 EDUs)
+  [0] In other words, childhood is, indeed, the most happiest moments in a person's life
+  [22] . There is only one life and one child
+  [31] hood and people should live their childhood thoroughly
+  [41] .
+
+Instance 198 (6 EDUs)
+  [0] Learning to be independent is essential for young adults\n\
+  [12] nLearning to be independent is essential for young adults
+  [22] . However, how early the children leave their parents is a difficult issue
+  [36] . In my point of view, staying with the parents for longer time does more benefits than disadvantages to the young adult
+  [63] . My opinion is based on creating memories with parents, saving money, and taking advice from parents
+  [84] .
+
+Instance 199 (11 EDUs)
+  [0] First of all, one of the most significant upsides is that the young adult can have more experience with his parents
+  [24] . The young adult has to try to create memories with his dad and mom in the early age
+  [44] . When having a job
+  [49] , it is of low possibilities to work in his hometown
+  [62] . If he lives with his parents for longer time
+  [72] , they have more chances to share the feelings, exercise
+  [84] , and travel together
+  [88] . All memories become priceless treasure as time passes by
+  [101] . Thus, I
+  [106] think undergoing with parents is worthwhile
+  [115] .
+
+Instance 200 (9 EDUs)
+  [0] Furthermore, living at home costs less than living outside
+  [12] . Learning to be independent means that the young adult needs to leave home
+  [26] . Therefore, he may have to rent a
+  [35] house and the rental would become a burden for parents
+  [46] . Moreover, another daily expense is also the considerable outgoings
+  [61] . Spending much money may not result in what the parents expect their children to be
+  [78] . In a word, the parents can save money
+  [88] , if their children live with them longer
+  [96] .
+
+Instance 201 (10 EDUs)
+  [0] The third convincing reason is that the young adult needs father and mother's suggestions
+  [18] . When in dilemma, the parents can comfort
+  [27] him and give him a big hand
+  [34] . They are the people who are most familiar with
+  [44] him can give a suitable
+  [49] advice and lead him to the right way
+  [57] . If the parents do not help him immediately
+  [66] , he would have to suffer more pain
+  [74] . Hence, taking advice from parents, the young adult can go through obstacles easily
+  [93] .
+
+Instance 202 (3 EDUs)
+  [0] To sum up, living with parents longer brings about memories with parents, less cost, and advice from parents
+  [23] . Hence, staying longer with parents is a better choice
+  [36] .
+
+Instance 203 (8 EDUs)
+  [0] Do you agree or disagree with the statement that a zoo has no useful purpose\n\
+  [18] nSome people may believe that a zoo is futile in the era of globalization, which people can develop their knowledge fast and easily
+  [46] . However, I do not agree with them
+  [55] . I believe that the zoo is invaluable for human beings
+  [69] . It is very crucial for learning
+  [76] . It helps animals out of extinction
+  [85] . Also, it is a interesting travel location
+  [94] .
+
+Instance 204 (11 EDUs)
+  [0] First of all, the zoo gives humans new knowledge
+  [10] . When you were so young that you did not know many kinds of animals
+  [26] , what should you
+  [30] do if there were no zoo
+  [36] ? Inevitably, the zoo is the important place for innate learning
+  [51] . The zoo also let students have a chance to learning biology practically
+  [66] . They are able to observe animals' behaviors and features
+  [78] . Moreover, practical learning help students relax from a boring lecture class
+  [93] . Besides, researchers need the zoo to pick up some examples of animals for their research
+  [113] es because it has diverse species of animals
+  [121] .
+
+Instance 205 (7 EDUs)
+  [0] Secondly, the zoo preserves a large number of rare
+  [13] animals and provides them safe habitats
+  [20] . In the zoo, there is not so harmful as a forest
+  [36] . They, fed by zookeepers, do not need to find food themselves
+  [52] . Furthermore, we can do artificial insemen
+  [64] ation to maintain nearly extinct wildlife
+  [73] .
+
+Instance 206 (8 EDUs)
+  [0] Last but not least, because of all weird, acute, and beautiful animals in the zoo, it can be a great tourist attraction
+  [28] . There are a lot of tourists who seek to see those animals closely
+  [45] . If the zoo has a large number of both national and foreign tourists
+  [60] , it will receive a great deal of money
+  [69] . That also make money flow
+  [75] , and then economics become better
+  [82] . It benefits to a certain country
+  [89] .
+
+Instance 207 (4 EDUs)
+  [0] In conclusion, the zoo not only saves animals in danger of extinction
+  [16] , but also helps people around the world have better lives
+  [27] . I firmly believe that the zoo is so useful for the earth
+  [41] .
+
+Instance 208 (6 EDUs)
+  [0] Nowadays, spending budget on space exploration is not reasonable\n\
+  [16] nSpace exploration, for discovery of out of space, has been possible for human in the 20th century
+  [39] . The United state and Russia are the important countries that spend large budgets for the research of this subject
+  [60] . In my opinion, spending the budget for space exploration is an important
+  [75] activity to save living of humanity in the future
+  [85] .
+
+Instance 209 (8 EDUs)
+  [0] Many governments believe that space exploration is an activity that wastes the budget
+  [16] , while the essential challenge of humanity in the future would be the discovery of a new place for the living
+  [39] . In 20th century, although human being succeeded to achieve out of space by means of new technologies such as rockets
+  [64] , but finding a new place for living in another planet is impossible until now
+  [79] . In during history, our planet is threatening by many of other planets or star
+  [98] s and it is an enormous danger for living of humanity
+  [111] . Therefore, it is very significant to find a new place for living in other planets
+  [129] .
+
+Instance 210 (8 EDUs)
+  [0] Space exploration has used as a tools for military power in the cold war
+  [15] . In the future, many countries will try to prevent attach of other
+  [30] countries by using and invention new missiles
+  [40] . In the past, the space race happened between the United Stated and the Soviet Union
+  [58] . Both countries tried to send man to the 
+  [68] moon and show their power to each other
+  [76] . As a result, space exploration will use as a military power for many countries
+  [93] .
+
+Instance 211 (6 EDUs)
+  [0] In summary, spending budget for space exploring is not the waste budget
+  [15] , because it may helps to save civilization of humanity
+  [27] . Although exploring space used for discovery of other planets
+  [40] , nowadays most of governments have used many rockets for military purpose
+  [56] s and therefore the purposes of exploring space has altered
+  [69] .
+
+Instance 212 (11 EDUs)
+  [0] Friendship is more important than mistake by a friend
+  [10] , although mistake is terrible\n\
+  [18] nThere is an
+  [22] argument regrading
+  [25] weather letting a friend make a mistake is better than taking
+  [37] action that risks destroying a friendship
+  [45] . It is widely accepted by many people that a mistake will return sometimes terrible result
+  [63] . However, I believe that friendship is more important than mistake by a friend
+  [78] , although mistake is terrible
+  [83] . In this essay, I will present two reasons supporting my opinion
+  [97] .
+
+Instance 213 (15 EDUs)
+  [0] First of all, a mistake does not last for a long
+  [12] time but a friendship lasts forever
+  [19] . Anybody does not remember mistakes
+  [27] . If someone remembers mistake
+  [33] , he or she has a closed mind
+  [41] . I want to say that mistakes will be forgotten quickly
+  [53] . For example, my friend Lee made a
+  [62] mistake that he broke my precious gift
+  [71] . However, I forgot about it just after two days
+  [83] , and I felt at peace with him
+  [91] . Some people might
+  [95] say I am silly
+  [100] , but I
+  [103] think mistake is more forgettable than friendship
+  [111] .
+
+Instance 214 (15 EDUs)
+  [0] Second, Everybody makes mistake
+  [6] . However, if you end a
+  [13] friendship whenever your friend makes a mistake
+  [20] , there will be no friends around you
+  [28] . I
+  [30] agree if a friend makes very a big mistake
+  [39] , we will need to end a friendship
+  [47] . However, when the
+  [52] mistake friend made was not a big problem
+  [60] , we need to understand
+  [65] friend and forgive
+  [69] it because a friend is a gift of our life
+  [79] . According to a research, 85% of people
+  [88] answered that a best gift is a friend
+  [96] .
+
+Instance 215 (5 EDUs)
+  [0] I think that a mistake can not brake
+  [9] friendship if it is not a
+  [15] big because friendship is
+  [19] forever and gift our life
+  [24] .
+
+Instance 216 (7 EDUs)
+  [0] Students should be required to take regular standardized tests\n\
+  [14] nThe issue at hand is if the schools should require students to take regular standardized exams
+  [33] . This issue is
+  [37] important because nowadays many people cast doubt on it
+  [48] . However, I believe that standardized tests are valuable option for educational
+  [62] system as long as it would help teachers to know if the students are really getting knowledge
+  [79] .
+
+Instance 217 (7 EDUs)
+  [0] Firstly, standardized tests are preferable due to the fact that they help teachers to fairly grade the students
+  [22] . For example some students are not so active on the lessons
+  [34] , cause they are already familiar with the issue
+  [43] . Therefore, exams could be the only way for teachers to see the real abilities of those students
+  [64] . In addition, many teachers rely only on the exam results while grading the class
+  [82] , so the usage of standardized tests is the superior option for them
+  [96] .
+
+Instance 218 (7 EDUs)
+  [0] Additionally, standardized tests can be good chance for students to apply their knowledge on practice
+  [20] . Since, some students may get used to simply rewriting solved problems from the blackboard
+  [39] , so they will never try to solve problems on their own
+  [51] . However, standardized tests offer them such chance
+  [61] . Thus, it is clear that schools should require students to take standardized tests
+  [78] , as long as this option helps to both sides
+  [89] .
+
+Instance 219 (9 EDUs)
+  [0] Finally, I think that requirement to take standardized tests is the right choice
+  [16] , since in this case teachers can compare the level of knowledge of different students
+  [31] . In any class there will be students who will show low academic performance
+  [45] , so teachers could work with them more intensively
+  [55] . I support the points of those who say that standardized tests are required over those who don'
+  [75] t
+  [76] because if the teacher would know the level of each
+  [86] student he would fairly share his time to all of them
+  [97] .
+
+Instance 220 (5 EDUs)
+  [0] Ultimately I
+  [3] feel that schools which obligate their students to take standardized tests are right
+  [18] . I belive this
+  [23] , due to the fact that these schools can qualitatively check if they are giving an appropriate education to their students
+  [45] .
+
+Instance 221 (7 EDUs)
+  [0] Most difficult experiences will become valuable
+  [6] lessons\n\
+  [10] nThere is a famous old saying that failure is the mother of success
+  [24] . For that reason, some people advocate that some difficulties people met at their early ages will become an invaluable fortune in their future lives
+  [55] . However, some people think it isn't supposed to be that case
+  [70] . From my point of view, I am in favor the former statement that some tough experiences people met before will be helpful in their life path
+  [98] .
+
+Instance 222 (8 EDUs)
+  [0] To start with
+  [3] , hardship makes people realize how to cherish and compliment the common but wonderful little things happened in their life such as, a shining weather, a delicious breakfast and etc
+  [40] . People who have such nice spirit usually know how to find the true love in their
+  [57] life instead of being seduced by gre
+  [66] ed as to lose themselves in the end
+  [75] . As a result, experiences of difficulties teach them how to keep a nice
+  [91] mood and have confidence all the time
+  [98] .
+
+Instance 223 (8 EDUs)
+  [0] What's more, people who experienced lots of difficulties will be calmer when they are in troubles
+  [22] . Because they already have such experiences of overcoming some difficulties
+  [36] , they are conscious of what to do and how to
+  [48] do when fierce crisis happens
+  [54] . Those people are more likely to achieve their ambitions in their
+  [67] career because they are aware of how to lead people to reach
+  [79] success despite what kind of difficulties are getting in their way
+  [92] .
+
+Instance 224 (5 EDUs)
+  [0] So, to sum it up, both not afraid of difficulties and appreciating common but pleasant things in their lives drive me to believe that most tough experiences in people's life path will be a priceless treasure to them
+  [46] .
+  [47] Remember if you are afraid of encountering difficulties
+  [57] , then you will be in the troubles all the time
+  [69] .
+
+Instance 225 (3 EDUs)
+  [0] Life in a city is much better than life in the countryside\n\
+  [16] nAs far as I am concerned, I agree with the statement that life in a city is much better than life in the countryside
+  [43] .
+
+Instance 226 (4 EDUs)
+  [0] Firstly, in the city there is much better education system
+  [12] . This means, that the schools and the universities have well equipped
+  [27] classes and the famous professors would like to work in such places
+  [40] .
+
+Instance 227 (6 EDUs)
+  [0] In addition, I believe that city provides more work opportunities than the countryside
+  [15] . There are not only more jobs
+  [22] , but they are also well-paid
+  [30] . Of course living in a city is more expensive
+  [40] , but incomes are higher too
+  [47] .
+
+Instance 228 (5 EDUs)
+  [0] Moreover, in the urban areas there are also more citizen
+  [12] s what means, that the culture diversity is huge
+  [23] . Meeting and knowing new people's tradition is an unforgettable experience
+  [39] , which could influence on one's previous habits
+  [50] .
+
+Instance 229 (4 EDUs)
+  [0] Furthermore, the city has well-organised lines of transport
+  [14] . The buses and trains are more frequent than in the countryside
+  [29] , so the city provides better communication
+  [36] .
+
+Instance 230 (3 EDUs)
+  [0] However, in the countryside there are many places to rest, because of its location
+  [17] . Moreover, peaceful and close to the nature areas could help to avoid worries and sadness
+  [39] .
+
+Instance 231 (7 EDUs)
+  [0] Taking all into account
+  [5] , I think that living in the city is much better nowadays, because of the opportunities it gives
+  [26] . Today living in the rural places is in most causes connected with agrarian lifestyle
+  [42] , which for me is without perspective
+  [49] . If I could
+  [53] decide I would chose living in the city for sure
+  [63] .
+
+Instance 232 (7 EDUs)
+  [0] E-mail or Voice mail Versus Telephone or face to face\n\
+  [17] nTechnology has been developing so
+  [25] quickly and becoming more perfect every day
+  [32] . Communication nowadays depends on technology pretty much
+  [43] . Voice mail, e-mail, telephone or just traditional way: face-to-face
+  [62] . However, I prefer e-mail due to 3 reasons: convenience, honest expression and fluency in communicating
+  [88] .
+
+Instance 233 (9 EDUs)
+  [0] Everyone agrees that e-mail has been a great way of communication
+  [14] . You can talk to others from thousands mile
+  [23] . For instance, if you are in
+  [31] Vietnam and another person is in the US
+  [39] - half of the Earth, no matter how far it is, you can keep contact
+  [56] . We will never have to worry if our mails will be sent to the right address
+  [74] . If the address is wrong, then you will know right away
+  [87] . Moreover, e-mail doesn't take too much time: just a click
+  [105] .
+
+Instance 234 (14 EDUs)
+  [0] In addition, writing e-mail helps people express honestly
+  [12] . Some people think that the face-to-face conversations make them feel stupid
+  [29] . Sometimes, their ideas are not expressed as exactly as they expect
+  [43] . For instance, I want to talk to my friend about a ticklish problem like her behavior
+  [63] , it's hard for me to face
+  [72] her and explain what she should do
+  [79] . Therefore, e-mail will be a good
+  [89] tool to help me speak out
+  [95] . She will just read my e-
+  [103] mail instead of listening to my
+  [109] voice which can make her annoyed
+  [117] . I don't have to worry about any other
+  [128] thing can make my opinion become unpersuasive
+  [138] .
+
+Instance 235 (12 EDUs)
+  [0] Last but not least, every communication needs fluen
+  [10] cy so people can understand each other exactly and remember it for a long time
+  [25] . Voice email or face-to-face conversations sometimes make reserve people feel not very confident
+  [44] . For example, when I face my parents
+  [53] , I can't speak out every idea and express consecutively
+  [66] . They may stop me
+  [71] , speak something against
+  [75] it and that makes me forget what I want to say
+  [86] . Anyone can meet this problem once in any conversation
+  [97] . E-mail helps me arrange my idea
+  [106] perfectly and make it persuasive
+  [112] .
+
+Instance 236 (7 EDUs)
+  [0] On the whole
+  [3] , to compare to all ways of communication
+  [11] , I really think that e-mail is the greatest way for major people to use
+  [28] . Its convenience saves our time
+  [37] . Additionally, honesty is necessary for every
+  [49] conversation and also fluency can't be missing for a persuasive expression
+  [65] .
+
+Instance 237 (5 EDUs)
+  [0] Communicating via e-mail and voice mail vs Telephone and face-to face\n\
+  [21] nAlthough many people prefer communicating by telephone or face-to-face
+  [38] , personally I believe that communicating by e-mails or voice mails is better
+  [57] . There are several reasons to support this idea which I would like to mention in this essay
+  [75] .
+
+Instance 238 (5 EDUs)
+  [0] Firstly, communicating by e-mail is easy
+  [12] . Many people have problems with calling a person that they are not acquainted with
+  [29] . In this case it is not so difficult to write an e-mail or to leave a voice
+  [49] mail because even shy people feel themselves more confident
+  [59] .
+
+Instance 239 (11 EDUs)
+  [0] Secondly, you can write an e-mail at any time of the day
+  [16] . As for me, I work and study at the
+  [27] university and I don't have spare time during the day
+  [39] . I get home at about mid
+  [46] night and I still need to answer some
+  [54] questions and to solve some routine problems
+  [61] . I might not have
+  [66] time to call a
+  [70] person or to meet with him or her in an appropriate
+  [81] time so for me it is better to leave a voice mail
+  [93] .
+
+Instance 240 (11 EDUs)
+  [0] Thirdly, when you write an e-
+  [9] mail you have enough
+  [13] time to think carefully about what you are writing and how it would be better to express yourself
+  [31] . For example, you can change the word
+  [40] order or you can choose more appropriate
+  [47] style to sound more polite
+  [53] . When you speak face-to-
+  [61] face you are not as able to control every
+  [70] word as you
+  [73] are when you write an e-mail
+  [81] .
+
+Instance 241 (3 EDUs)
+  [0] And finally, there is no chance to disturb people by sending them an e-mail
+  [17] . You should not worry about interrupting an important conversation or some other business
+  [32] .
+
+Instance 242 (4 EDUs)
+  [0] To sum up, I would like to say that for me both options of communicating are possible
+  [20] , but if this is an important and not urgent
+  [30] question I would prefer to answer it by means of internet or voice mail
+  [44] .
+
+Instance 243 (9 EDUs)
+  [0] Should we require our young children to learn music and art\n\
+  [14] nEvery parents expect their children to be outstanding and successful
+  [25] . In order to achieve this
+  [31] , they start cultivating their children when they are very young
+  [43] . In addition to basic knowledge like language or science, music and art are usually on the must-learn list of the parents
+  [70] . In my opinion, I
+  [76] agree that children should learn music and art in a young
+  [87] age because they do contribute several merits to them
+  [97] .
+
+Instance 244 (14 EDUs)
+  [0] First, it's very suitable for children to develop senses of music and art when they are young
+  [21] . Children absorb things
+  [25] quickly and they bear exact the
+  [31] ability needed in music and art-imagination
+  [40] . Music and art are not like math or
+  [49] language which has more strict rules
+  [55] . They are more abstract
+  [60] , requiring creativity and imagination to be enriched
+  [73] . Children are privileged to have these abil
+  [82] ities because they are given more
+  [88] freedom and their imagination has not yet been killed due to reality circumstances
+  [101] . Even if their performances are just some simple drawings and melodies
+  [116] , music and art still bring out children's joy of flying in imagination
+  [132] .
+
+Instance 245 (8 EDUs)
+  [0] Second, music and art are life-long cultivation worthy of investing
+  [16] . They teach us how to appreciate beauty and express feelings in a creative way
+  [32] . They are essential to our spiritual life
+  [40] . Therefore, even if children are not going to be great musicians or artists
+  [57] , learning music and art is still worth
+  [65] y because it can nourish your
+  [72] temper and serve as a leisure
+  [79] .
+
+Instance 246 (9 EDUs)
+  [0] However, some people might argue that parents shouldn't put so much stress on children
+  [19] , since learning too many skills seems to be a burden for them
+  [33] . In my opinion, it depends on how you value these learning activities to be like
+  [51] . If parents push their 5 years old child to play piano 8 hours a day just like a professional performer
+  [73] , that might be too much
+  [79] . In a child stage, music and art are more like an open door to introduce the art world than training
+  [101] area to acquire specific skills
+  [106] . In this way, it will not be such pressure on children
+  [119] .
+
+Instance 247 (5 EDUs)
+  [0] In conclusion, young age is the perfect time for children to learn music and
+  [15] art and they are indeed valuable to people not only in their young stage, but in every stage
+  [34] . Music and art can accompany a
+  [42] spirit as long as they are given the chance to enter his/her life
+  [57] .
+
+Instance 248 (10 EDUs)
+  [0] The car use will definitely decrease in twenty years\n\
+  [12] nViews differ considerably when it comes to the issue of whether cars will be less than there are today in twenty years or not
+  [40] . Some people believe that since the environmental concern has risen
+  [52] , the car use will decrease
+  [58] . While others think that a personal car is important for ones daily life
+  [72] . Both of the opposite arguments appear to be somewhat convi
+  [85] ncing and stand to reason
+  [90] . But as far as I am concerned, I agree with the idea, which is that there will be a decrease in cars use in the future
+  [120] . The following reasons will present my points
+  [128] .
+
+Instance 249 (8 EDUs)
+  [0] First of all, since the public transportation has improved
+  [12] , it is much convenience to take a subway or a bus
+  [26] . For example, I live in a
+  [34] city which always have a jam in the
+  [42] morning and doesn't have enough parking lots for the cars
+  [55] . So, with the stations
+  [62] increased people are willing to take a public transportation than drive on their own
+  [77] .
+
+Instance 250 (7 EDUs)
+  [0] Second, a driving car can make a lot of different pollutions to the world
+  [16] . So, with the risen of the aware to the environment, people will think more about whether to drive on their own or not
+  [43] . For example, instead of driving each one's car, if we put forty people in a bus
+  [65] , it will solve the traffic
+  [71] jam by decrease the cars
+  [77] use and also reduce the air pollution for the city
+  [87] .
+
+Instance 251 (15 EDUs)
+  [0] Although, I am agree with the idea that reducing of the car use will be achieve in twenty years
+  [21] . I think I still have to point out that there are some different points of view
+  [38] . People who hold different opinion may argue that a personal car uses is in
+  [55] need because a public transportation can't meet every place
+  [67] . Of course, it may be
+  [74] true when you want to go to some countryside or some other inconvenience places
+  [92] . However, no matter you are going to somewhere for a
+  [104] trip or you just simply live in some suburbs and so on
+  [117] , it always have some other ways that you can do
+  [128] , you can ride a bike
+  [134] , or even walk on your feet
+  [141] . It not only helps you to reduce the car use
+  [152] , but also good to your health
+  [159] . In this way, this won't be a problem at all
+  [173] .
+
+Instance 252 (4 EDUs)
+  [0] In conclusion, given the reasons described above
+  [8] , when the advantages and disadvantages of whether there will be fewer cars in use in twenty years or not are carefully compared
+  [37] , the best choice is obviously stand on my side, which is that the car use will definitely decrease in twenty years
+  [60] .
+
+Instance 253 (7 EDUs)
+  [0] Working at home vs Working in a company\n\
+  [13] nDue to the convenience of current technology, people can do their works
+  [29] everywhere as long as they have the equipment around them
+  [39] . People are no longer restricted in the office
+  [49] . This rapid progress in technology leads to the question whether it's better working at home with a computer and a phone than working at the company's office
+  [82] . In my opinion, I believe that working at home is worse and less efficient than working in the office
+  [103] .
+
+Instance 254 (11 EDUs)
+  [0] First of all, while working in the office, people can interact with their colleges instantly
+  [19] . They can either get help from college
+  [27] s or discuss about the work together
+  [34] . Think about the big project that a group is working on
+  [46] , if any group member has new idea about the project
+  [57] , he/she can assemble his/her colleges right away and discuss
+  [73] . It's more efficient and straight-forward than talking in the phone
+  [89] . For another example, if one's computer or Internet has any breakdown
+  [105] , he/she can call the MIS
+  [114] staff to fix
+  [117] .
+
+Instance 255 (10 EDUs)
+  [0] Second, working at home has many disadvan
+  [10] tages that will no doubt lower the efficiency of works
+  [20] . For example, people are easily distracted while working at home
+  [33] . It's hard to concentrate on
+  [42] work if people can grab the TV remote or some junk foods right away
+  [58] . In addition, while people are working at home
+  [68] , there will be no one supervising them
+  [78] , thus raises the chance of loafing
+  [89] . Moreover, people who work at home are more likely to miss the important events happening in the office, like some announcements from the boss
+  [119] .
+
+Instance 256 (5 EDUs)
+  [0] In conclusion, working in the office is obviously better than working at home in terms of efficiency
+  [18] . It not only has the advantage of working with college
+  [29] s but also it provides a real working atmosphere that can never be gras
+  [43] ped if people choose to work at home
+  [51] .
+
+Instance 257 (7 EDUs)
+  [0] The ability to relate well to people is more important\n\
+  [14] nI think
+  [17] that No factor is important enough by itself to succeed in any situations
+  [30] . We should consider many
+  [35] factors and choose the best of them
+  [42] . I believe that both the ability to relate well to people and studying hard in school are important for success in a future job for following reasons
+  [72] :
+
+Instance 258 (12 EDUs)
+  [0] We need to know and learn about the theoritical basis of our future job
+  [16] . This can be done in school
+  [23] . In school, we are able to identify skills required for our future
+  [37] job and work on mastering and learning them
+  [46] . If we study them hard
+  [52] , we will have the chance of doing our job better and quicker in the future
+  [69] . For example, if someone wants to become a good industrial engineer
+  [82] , he should study his technical courses very
+  [90] well so that he will be able to utilize them well in his future job
+  [105] . As you can see, studying hard in school is an important
+  [119] factor to succeed in a job
+  [125] .
+
+Instance 259 (16 EDUs)
+  [0] One of the other factors for success in a future job is effective commuincation
+  [17] . By relating well to people
+  [24] , we are likely to have a lot of
+  [33] friends and therefore we will have a wide network of communication
+  [44] . Commuincation can bring many benefits
+  [53] . For example, if you need help with getting a job
+  [65] , by commuincating with people offering
+  [74] jobs whom you treat
+  [78] well and therefore they respect you as well
+  [86] , you can achieve your goal
+  [92] . Or, if you are a salesman in a store or any other place
+  [108] , by relating well to your customers
+  [116] , you will increase the chance of their coming back
+  [126] again and becoming your regular customers
+  [132] . So, relating well to people is also another important factor
+  [145] .
+
+Instance 260 (6 EDUs)
+  [0] In sum, though some people may disagree with me
+  [10] , as I explained my reasons and examples above
+  [20] , none of those factors are important and sufficient enough by
+  [33] themselves and we should notice to both of
+  [41] them because each of them has its own benefits
+  [50] .
+
+Instance 261 (10 EDUs)
+  [0] The advertising is the main cause of unhealthy eating habits\n\
+  [16] nAdvertising is becoming part of our modern society
+  [27] . They penetrate into people's life
+  [36] , affecting people's choices in different things
+  [47] . Therefore, it comes to the debate whether advertising has positive influences on people's life
+  [66] . Some people say that advertising must be blamed for the unhealthy eating habits
+  [84] , while others believe that there are still some other
+  [94] factors directing people's judgments
+  [102] . In my opinion, the advertising is not the main cause of unhealthy eating habits
+  [121] .
+
+Instance 262 (12 EDUs)
+  [0] First of all, advertising is not entirely decisive on personal eating habit
+  [14] . The key to forming a healthy eating pattern lies in people's concept of wholesome diets and self-control
+  [40] . It is sure that advertising always makes the products so tempting
+  [53] , regardless of whether they might bring negative effects on the human body
+  [66] . However, advertising is not the only information source for people
+  [78] . People can still acquire different viewpoints about foods from other sources, like news or magazines
+  [99] . As long as people are clear about how to maintain a healthy
+  [112] body and they persistently keep track of their eating habits
+  [125] , they can successfully prevent themselves from those temptations
+  [137] . It will be not persuasive if people just blame the advertising sector of a fast-food company for making them so
+  [162] fat and not reassess their own behaviors
+  [172] .
+
+Instance 263 (9 EDUs)
+  [0] Second, in the era when people are becoming conscious of a healthier lifestyle, some companies are actually aiming at this rising
+  [27] trend and start to promote healthy foods
+  [35] . In other words, advertising may even bring healthier eating habits to the people
+  [52] . Think about the recently popular organic foods that are claimed to grow in an environment without pesticid
+  [73] e and those crude foods in which less salt or less sugar are added
+  [89] . These are the main traits that advertising is hitting
+  [101] on and the overall results are good
+  [108] . In these cases, the advertising industry bolsters people's awareness of having a healthy lifestyle
+  [127] .
+
+Instance 264 (7 EDUs)
+  [0] In conclusion, advertising is not the primary reason of unhealthy eating habits
+  [16] . There are the build-up of the concept about healthy eating habits and self-control that really matter
+  [38] . Besides, advertising might lead to healthier eating customs due to the growing awareness of living under a better lifestyle
+  [62] . It is inevitable to be exposed to the environment full of advertise
+  [76] ments but it does not mean that our right to choose is taken away
+  [90] . We will always be able to decide our own lifestyles
+  [102] .
+
+Instance 265 (6 EDUs)
+  [0] Learning facts has more subsequent advantages for students' future lives\n\
+  [16] nThere are many debates regarding whether understanding ideas and concepts is more essential than learning facts for students or not
+  [40] . Although multitudes of people think that knowledge of ideas and concepts is more vital for students
+  [59] , I am in the conviction that learning facts has more subsequent advantages for students' future lives
+  [81] . In the following, I will state my reasons for this choice
+  [94] .
+
+Instance 266 (7 EDUs)
+  [0] First
+  [1] , when students learn facts more in school
+  [10] , they would be ready for facing problems in their own life after their graduations
+  [27] . As a case in point, more information about facts would make students more familiar with the real life other that only their concepts
+  [54] . As a result, they would prepare to encounter their life out of
+  [68] school to solve their problems better
+  [74] .
+
+Instance 267 (10 EDUs)
+  [0] Second, it would improve students' social behavior
+  [9] . If students only rely on concepts and ideas theorically
+  [23] , they would not realize human's mind very well
+  [34] . They should understand objects more that concept
+  [43] s to obtain the
+  [47] ability of analyzing matters well
+  [55] . Thus, if they deal more with facts
+  [66] , they can realize social situations
+  [72] effectively and so improve their social communication in everyday life
+  [82] .
+
+Instance 268 (6 EDUs)
+  [0] Moreover, these way students are teached to control their fears and concerns in facing facts
+  [22] . As a matter of fact, when a student understands a fact and its consequences
+  [39] , he or she can encounter it more confidently
+  [49] . In my viewpoint, concerns and anxieties are very destructive in everybody's life
+  [71] . It can prevent person to progress and thrive in every position
+  [85] .
+
+Instance 269 (5 EDUs)
+  [0] All in all, I am in the belief that learning facts is more beneficial for students in both social and individual life in the view of above-mentioned reasons
+  [35] . Students would improve their social position
+  [43] s and encounter their problems in positive
+  [50] ways and also intend in the more confidence manner and etc
+  [61] .
+
+Instance 270 (7 EDUs)
+  [0] Financial support for sports and social activities\n\
+  [10] nThere are a lot of debates about the importance of sports and social activities in contrast with the main classes
+  [32] . It is very subjective decision for students to have or not have these facilities
+  [48] . Although multitudes of people think that sports and social activities are not as necessary as academic subjects in colleges
+  [71] , I think that these activities have the same efficient role in students' lives
+  [86] . In the following, I will state my reason for this choice
+  [99] .
+
+Instance 271 (9 EDUs)
+  [0] First, besides the good body shape, sports have very vital effects on human's healthfulness
+  [21] . In my viewpoint, our body and moral health depend to physical activities directly
+  [37] . As a case in point, last month I had very difficult
+  [50] exam that I forced to study for one week back to back
+  [62] . After that exam, I felt depressed and exhausted
+  [75] . Therefore, I decided to go to gym to recupera
+  [86] te and it responded very well
+  [93] ! As a result, sports are necessary for students to acquire their energy and health
+  [109] .
+
+Instance 272 (6 EDUs)
+  [0] Second, besides the academic knowledge, the awareness of social behavior is an important factor for human's life
+  [22] . As a practical epitome, students should be prepared to present in society after their graduation
+  [42] . Thus social activities can help them to be familiar with other's mind and different environment
+  [61] . In my opinion, social groups and classes are significant factors to prepare students to contribute in discussion and encounter real social environment
+  [85] . So, social activities have same rights to receive monetary support
+  [98] .
+
+Instance 273 (8 EDUs)
+  [0] Moreover, they bring about students to be happier and to have more fun and entertainments
+  [19] . If we follow just one wing of my life i.e., studying as a student
+  [40] , after some whiles it would be bor
+  [49] ing and we wouldn't have any motivation
+  [58] . Such activities can help us to pick up with other
+  [69] students and have more friends
+  [74] . In my perspective, more friends and new experience inspire the feeling of happiness and excitement in me
+  [94] .
+
+Instance 274 (4 EDUs)
+  [0] All in all, I am in the conviction that sports and social activities should obtain analogous concern and money in the view of above-mentioned reasons
+  [33] . They bring a lot of advantages and benefits for
+  [44] students and also affect their future in a positive way
+  [54] .
+
+Instance 275 (11 EDUs)
+  [0] Learning a foreign language in my own country or another country\n\
+  [14] nKnowing foreign language is became more and more important in this time
+  [29] . Many people pursue to study foreign language
+  [37] . There are two options to learn foreign language
+  [46] . First is stay in home
+  [52] land to study foreign language
+  [57] . The second option is that go to study in another place that foreign language are spoken
+  [75] . Going to another place to learn language is better choice
+  [87] . I will give
+  [91] reasons to support my opinion
+  [96] .
+
+Instance 276 (11 EDUs)
+  [0] To begin with
+  [3] , going to another country to learn language is a good environment to stimulate people to learn language
+  [22] . For example, everyone around me speaks foreign language
+  [33] , and then I have to improve
+  [40] myself to communicate with people
+  [47] . If I could not communicate with other people
+  [58] , I could not even buy
+  [64] food to sacrifice my hunger
+  [70] . This environment makes me want to develop
+  [78] myself to be able to communicate with people that speak foreign language
+  [92] .
+
+Instance 277 (8 EDUs)
+  [0] Secondly, having friend that speaks another language is help people to professional in that language faster
+  [20] . For instance, English school in outside my home country
+  [31] , there are many people that come from different places and from different languages
+  [46] . The only language that I could talk to make friends is English language
+  [60] . Thus, I could talk with my
+  [69] friend without worrying about speaking wrong
+  [76] . This reason makes me have a progress in foreign language faster
+  [89] .
+
+Instance 278 (6 EDUs)
+  [0] In conclusion, I personally believe that learning language from foreign country is better than learning language in home
+  [19] country because I have to improve
+  [25] myself to communicate with other people
+  [33] . Besides, in foreign country I could have a chance to speak foreign language with my friends
+  [52] . Learning foreign language form another country is better choice for me to study language
+  [67] .
+
+Instance 279 (9 EDUs)
+  [0] Getting opinions from many sources could augment people's performance.\n\
+  [16] nGetting opinions from many sources could augment people's performance
+  [30] . Thereby, evaluating from students is one of the
+  [42] ways to improve quality of educational system
+  [49] . Not only teachers could amplify their
+  [57] performance but the whole education system are also improve performance from evaluation made by students
+  [72] . Therefore, I agree with this no
+  [80] tion that students should be asked to evaluate their teachers
+  [91] .
+
+Instance 280 (16 EDUs)
+  [0] To begin with
+  [3] , Evaluating teachers made by students could improve teachers' performance
+  [15] . For example, evaluation made by students is similar to feedback from
+  [28] customer that business owners need to
+  [34] know in order to improve their product
+  [41] . Students might complain
+  [46] about their
+  [48] teachers spoke too
+  [51] fast that students could not catch up on information
+  [60] . Consequently, teachers could improve
+  [70] themselves by speaking slow
+  [74] er to make
+  [77] sure that students could get all
+  [83] information that they want to give
+  [89] . Therefore, evaluating from students could improve teachers' performance
+  [101] .
+
+Instance 281 (13 EDUs)
+  [0] Additionally, this evaluation from students could improve schools' quality
+  [14] . Teachers could augment their quality
+  [22] . Consequently
+  [28] , When school gather
+  [33] teachers that have great performance
+  [38] , school are gaining higher quality
+  [45] . For instance, in many cooperation such as Microsoft that could produce many great
+  [61] products because they have
+  [65] employees whose performance are very high
+  [71] . Schools could produce intellectual
+  [78] students because school have
+  [82] teachers who are always improve their quality from evaluation made by students
+  [94] .
+
+Instance 282 (14 EDUs)
+  [0] Finally,
+  [2] people who get the most advantage from
+  [9] evaluation is students
+  [12] . Students could study in
+  [18] class that have teachers who have experienced and greater performance
+  [28] . Because teachers are always adapt the way they
+  [37] teach in order to make students easy to understand their subjects
+  [49] , students could comprehend their subject easily
+  [56] . As a result, students
+  [62] , who study from great
+  [67] schools which have great performance teacher
+  [73] , graduate with great
+  [77] knowledge to survive in next steps of life
+  [85] .
+
+Instance 283 (9 EDUs)
+  [0] In conclusion, I agree with this
+  [7] statement that school should ask students to evaluate their
+  [17] teachers because teachers could improve their performance
+  [24] . Moreover, schools are also improve their
+  [33] quality because they have high performance teachers
+  [40] . Furthermore, students are easy to understand their subjects
+  [53] . Thus, I
+  [58] believe that there are benefits to ask students to evaluate their teachers
+  [71] .
+
+Instance 284 (12 EDUs)
+  [0] Keep
+  [1] trying and never stop working for your goals\n\
+  [12] n"Keep running!," shouted from my
+  [25] heart but my legs can hardly move
+  [34] . During running for 20 Kilometers in a marathon running tournament 2014, I saw some people stopped
+  [52] running while the others fought until their last minute
+  [62] . At some moment, my body was telling me to
+  [73] stop but the choice that I made was on the contrary
+  [85] . I did not
+  [89] stop and won a medal goals in my life at the age of nearly thirty
+  [106] . From this experience, I believe that a person should keep trying for his goals
+  [122] .
+
+Instance 285 (7 EDUs)
+  [0] Firstly, committing to our goal helps creating personal worth
+  [13] . For example, I realized the true potential of my body and
+  [26] mind as I decided to train myself hard
+  [34] . Even if I were not to win this medal
+  [44] , I acknowledged the great amount of my endea
+  [55] vor as I could keep my tired legs running
+  [65] .
+
+Instance 286 (10 EDUs)
+  [0] Secondly, one who learns the great difficult
+  [10] y will become stronger
+  [15] . I remembered how I was suffered in the first
+  [27] round when I was last person who touched the line
+  [38] . However, I did not give up
+  [46] , and believed that I would be better in the next
+  [58] round because I knew how to improve myself
+  [66] . I had been a loser for a thousand time before the first winning
+  [82] , and suffering from losing in each competition makes me stronger
+  [95] .
+
+Instance 287 (8 EDUs)
+  [0] Thirdly, at some point, we, as an average people, might feel that the responsibility to our goal is too heavy to carry on
+  [28] . I
+  [30] believe that the responsibility is worthy of carrying
+  [40] . When the distance is longer and harder to achieve
+  [51] , a runner who can go beyond his limit will proud of himself
+  [65] . He can feel the sweetness of
+  [73] triumph because he did not stop pursing his goal
+  [83] .
+
+Instance 288 (9 EDUs)
+  [0] For these reasons, I
+  [5] agree that one should not give up
+  [12] , as the true reward is to have the dignity
+  [23] . Anyone who wants to achieve the
+  [31] goal should
+  [33] acknowledge that his effort and experience from suffering helps him understand his true
+  [46] potential and increase his strength
+  [51] , and ultimately, it will prompt him to be ready for overcoming the greater challenge in his life
+  [73] .
+
+Instance 289 (11 EDUs)
+  [0] Technology makes people's lives simpler rather than complicated\n\
+  [15] nBelieve it or not
+  [22] , nowadays people are always confronted with a problem that whether technology makes their life simpler or not
+  [45] , thus making them confused
+  [52] . Many people
+  [55] advocate that technology makes their life easier
+  [62] . Although I concede
+  [66] d technology may make people's life complicated in some aspects
+  [79] , the convenience it brings is more
+  [88] . In what follows, I will illustrate my point of view
+  [102] .
+
+Instance 290 (4 EDUs)
+  [0] First, when it comes to the field of transportation, there is no doubt that the technology in automobile has made people's life simpler
+  [29] . With a private car, you can reach the destination in another city just sitting in the vehicle
+  [48] . Alternatively, if you would like to have a trip across the ocean, a plane can carry you there in only a few hours, which is hard to imagine in the ancient times
+  [86] .
+
+Instance 291 (8 EDUs)
+  [0] Second, technology also makes teaching simpler
+  [8] . In the past, teachers have to write what they want to convey to students on the chalkboard
+  [30] , resulting in a great waste of time and the fatigue of teachers
+  [45] . With the advent of iPads in e-learning, paper books become unnecessary
+  [64] , so does the blackboards
+  [71] , it is because all the knowledge and information are stored in the iPads, with a single click
+  [92] , and they would appear right before your eyes at once
+  [103] .
+
+Instance 292 (9 EDUs)
+  [0] Admittedly, to some extent, technology may make people's life more complicated
+  [19] . For example, the cell phone, which used to be simply a tool to deliver messages to your contacts in a distance, now are playing a role more than just a phone in social communications
+  [59] . For instance, folks have to check their Facebooks, Twitters, and Forums accounts every minute
+  [81] , which add too much pressure to them
+  [89] . In addition, games on their phone exert a tremendous fascination on teenagers
+  [108] , leading to a large
+  [113] problem that they got addicted to their phones
+  [124] . Consequently, making their life more complicated and tired
+  [139] .
+
+Instance 293 (3 EDUs)
+  [0] Based on the factors I have mentioned above, a conclusion can be drawn that although technology may make people's life complicated in some cases
+  [30] , the convenience it brings in people's are significant
+  [43] .
+
+Instance 294 (9 EDUs)
+  [0] More important to work quickly and risk making mistake
+  [9] s\n\
+  [13] nOrganizations, these days, seek to find people who can work extraordinary fast and carefully
+  [34] . These people play an important
+  [40] role to increase effectiveness of a company
+  [48] . Working fast yet risky has a place near the ideal goal mentioned before
+  [64] . I am totally agrees with the statement for some reasons
+  [76] . Trying to learn skills, working in two places in a week and gaining more tasks are the reasons which take into account as the most important causes of my choice
+  [111] .
+
+Instance 295 (15 EDUs)
+  [0] To begin with
+  [3] , if persons work rapidly
+  [10] , they will have more chance to study
+  [18] . Attending in some
+  [24] classes which try to increase the skills of
+  [32] employees can be considered as an absolutely effective parameter
+  [41] . If people learn how should increase their speed at work by studying
+  [55] , they can stares in their workplace
+  [64] . For example, I have a friend who was working so slowly
+  [77] . He has been threatened by his
+  [86] boss who was going to fire him
+  [93] . My friend went to a
+  [99] course where he learned how should work rapid
+  [107] ly and now he is working
+  [113] .
+
+Instance 296 (10 EDUs)
+  [0] Most importantly, people prone to work in two or three firms in a
+  [17] week because the expenses have been increased
+  [25] . If they work just in one
+  [32] organization they cannot earn enough money
+  [38] . This fact pushes them to work faster and faster
+  [51] . For example, because applying to study abroad needs a lot of money
+  [67] , I am working in two
+  [73] organization to gain more salary
+  [79] . The more money, the more chances
+  [87] .
+
+Instance 297 (10 EDUs)
+  [0] Last but not least, people who work slowly can no longer handle more tasks
+  [16] . If you show in your workplace that you are the one who can work more than other even carelessly
+  [39] , your boss will assign you more tasks
+  [48] . If you do them fast too
+  [55] , the first acknowledgement of your boss encourages you to work harder
+  [70] . It turns you to a person who has
+  [80] skill of working without hesitation
+  [87] . Even if we ignore this result
+  [94] , by the same token, you can get higher position and more money
+  [109] .
+
+Instance 298 (7 EDUs)
+  [0] To sum up, I completely approve of the statement which
+  [12] says people should work faster even more risky
+  [22] . Gaining more skills by study, having more than one job, and handling more tasks are the benefits of
+  [45] it which overweighs its disadvantages
+  [56] . I hope people gain this
+  [62] skill because after that they will endorse my choice
+  [73] .
+
+Instance 299 (6 EDUs)
+  [0] New building construction hold the right to gain more money from government\n\
+  [15] nThe housing shortage is drawing more and more attention nowadays
+  [29] . And the cost of accommodation keeps growing these years
+  [40] . The necessity of governmental financial aid is extremely important
+  [53] . What government should take into consideration at the first place should not be historic and traditional building preservation but new building construction
+  [77] .
+
+Instance 300 (17 EDUs)
+  [0] Building more accommodating constructions meets people's basic need
+  [13] . People cannot live a harmonious
+  [20] life if citizens do not have a decent place to live in
+  [34] . If the price of housing grows continuously
+  [44] , a comfortable place to live in will be a luxury to the middle class and the low class
+  [64] . Then, ordinary people, especially the younger generation, will fall into a certain pattern
+  [83] - work
+  [85] , pay bills for housing, work
+  [93] ; and I am sure that it will increase people's dissatisfaction of the government
+  [113] . Because when they are working
+  [119] , the fair of losing their accommodation always lingers
+  [131] , which will limit their efficiency
+  [137] . And government should spend money on
+  [144] people to rescue them from this
+  [152] , because only a government of the people, by the people, for the people will finally last
+  [171] ; people's cohesiveness will be promoted
+  [183] .
+
+Instance 301 (7 EDUs)
+  [0] Otherwise, another vital reason why new building construction deserves more governmental investment lies in the fact that it requires far more
+  [26] resource compare to old building preservation
+  [33] . Build a new building has following prerequisites, land that has been sold by the government via formal procedures, a reliable construction company and tremendous amount of labor
+  [70] . Except these, hundreds of problems would occur during the construction
+  [83] . Thus, only government can cope with
+  [93] it by utilizing its enormous resource like dollars and effectiveness
+  [106] .
+
+Instance 302 (3 EDUs)
+  [0] Generally, personally speaking, I
+  [7] believe new building construction hold the right to gain more money from government
+  [20] .
+
+Instance 303 (9 EDUs)
+  [0] Replacing old buildings is important for any
+  [10] city but it should not affect historic house
+  [18] s\n\
+  [22] nIt is important for any city to replace old buildings with new ones
+  [37] , but these revolutions should not include historic buildings
+  [48] . The historic buildings show the history of our ancestors
+  [61] . In addition, they can develop tourism industrie
+  [71] s by attracting tourists
+  [77] .
+
+Instance 304 (10 EDUs)
+  [0] Historic buildings answer many questions, which are mysterious about our previous ancestors
+  [18] ; thereby no one can determine the price of the historic buildings
+  [32] . They show the history of nations and previous generations who lived in the city
+  [49] . They show the lifestyle of people who lived in thousands of years ago
+  [63] . They show us how they survive, or how they defend themselves etc
+  [77] . By investigating about their structures
+  [85] , we can understand how much they knew about the architecture of building
+  [99] . In the other hand, historic buildings are important treasures
+  [112] , which provide an area to learn valuable lessons
+  [121] .
+
+Instance 305 (7 EDUs)
+  [0] Another advantage of historic buildings is their capabilities to attract more tourists to the city
+  [18] . It is interesting for most people to know about the
+  [29] way people live in thousands years ago
+  [36] . Therefore, It is a valuable opportunities for any city having historic building
+  [50] s to show them to new visitors
+  [57] . Historic building can develop other industries such as restaurants or other food industries and handicrafts shops and so on
+  [82] .
+
+Instance 306 (5 EDUs)
+  [0] These are reasons that why we should preserve historic buildings in the city
+  [15] . They can benefit us financially by developing other industries
+  [27] . Moreover, they are the symbols of our nations
+  [40] , which can show the historical culture of our previous ancestors
+  [53] .
+
+Instance 307 (8 EDUs)
+  [0] Attending boys and girls in a same school would bring many advantages\n\
+  [18] nWomen or men almost need each other in full of life even in school
+  [34] . Although some experts believe that common schools for both female and male lead to diminish their efficiency in education
+  [56] , others view it as a helpful way to recognize the opposite gender
+  [69] . In my opinion, boys and girls should study
+  [79] together in the sense that they have a chance to know each
+  [91] other and learn how to behave with an opposite sex
+  [102] .
+
+Instance 308 (15 EDUs)
+  [0] School is a small society for students, which prepares them for the future life
+  [16] . By attending to the same school
+  [24] , students can learn how to view the opposite gender in classes as a friend or a classmate
+  [43] . In addition, a boy would know how to speak with a girl in every situation and vice versa
+  [63] . They would know how to ask
+  [70] her in order to cooperate with his study
+  [79] , how communicate with girls in a group, etc
+  [91] . Admittedly, when they study together and help each other
+  [105] , they exercise the the real
+  [111] life as they age
+  [115] . By contrast, some experts believe that attending both girls and boys in a same school cause many disadvantages for them
+  [141] . By doing this, outdoors relationships may
+  [150] expand and it may accompany with sexual
+  [158] relationship and as result, their thoughts deviate from the studies
+  [170] .
+
+Instance 309 (7 EDUs)
+  [0] Moreover, attending in the
+  [7] school having boys and girls might be beneficial for both to increase their motivation to study better
+  [25] . Boys and girls will try to show their capabilities and abilities in the class
+  [42] , therefore they will study increasingly
+  [49] . Indeed, Boys do not like to seem weak in front of girls and vice versa
+  [68] . As a result, the productivity of the class will be increased
+  [83] .
+
+Instance 310 (6 EDUs)
+  [0] In a word, attending boys and girls in a same school would bring many advantages
+  [18] . Taking part in the study groups would increase student's motivation to study more
+  [35] . In addition, they would be able to know the opposite gender
+  [48] , which help them to be prepared for the adult
+  [58] life where they almost will live or work together
+  [67] .
+
+Instance 311 (14 EDUs)
+  [0] The city which I enjoy the most is a combination of history and modernity\n\
+  [18] nThe city where I was born used to be of a great antique beauty
+  [34] , which was surrounded with by lots of ancient style buildings
+  [49] . Unfortunately, the unstoppable trend of urbanization makes me only appreciate parts of those classic buildings in the pictures or in museums
+  [77] . In order to prevent the disappearance of the historic buildings
+  [90] , some citizens suggest the government to spend money on historic buildings
+  [104] . As far as I am concerned
+  [111] , we should do our
+  [116] parts to do what ever it
+  [122] takes to protect old buildings
+  [128] , letting next generations still have a chance to look at them
+  [142] . Here are some reasons and example
+  [149] s to illustrate my viewpoint
+  [156] .
+
+Instance 312 (13 EDUs)
+  [0] Historic buildings have intrinsic values
+  [8] , because they are significant symbols of a city
+  [18] . Old buildings are reminders of a city's culture and complexity
+  [34] . By seeing historic building
+  [39] s -- whether related to something famous or recognizably dramatic
+  [51] , people are able to witness the aesthetic and cultural history of an area
+  [67] . For example, when somebody mentions Beijing, China's capital city
+  [82] , you will immediately have Capital Palace come to appear in your mind
+  [95] , because it is the most remarkable sign of the city
+  [108] , and also it is the inevitable history of Beijing, even the entire China
+  [123] . Depending on the study of Capital Palace
+  [132] , researchers have a comprehensive understanding of the history and the culture
+  [145] .
+
+Instance 313 (12 EDUs)
+  [0] Furthermore, historic buildings make our lives more colorful
+  [13] , provide places for citizens to relax bodies and minds
+  [26] . The city is occupied with an abundance of modern houses and and high building
+  [45] s which make it crowded
+  [51] , and no rooms for people to relax themselves
+  [60] . However, the warmth of the materials, the heart pine, marble, or the old brick, all those old buildings features call back of our inner peace
+  [96] . Lying under the roof of a historic building or sitting on the de
+  [111] sk fill with
+  [114] history are both easy
+  [118] ways to forget life's little annoy
+  [127] ance and feel peaceful
+  [132] .
+
+Instance 314 (7 EDUs)
+  [0] Meanwhile, historic buildings can be a source of maintenance fees
+  [14] . There are many historic buildings, such as Beijing Place, Shanghai Artist Museum
+  [30] , they are all able to support themselves financial
+  [39] ly by charging tens of thousands of tourists
+  [49] . Our governments will be happy with those efficient consequences
+  [60] , and a majority of cities also can imitate this economical cycle
+  [74] .
+
+Instance 315 (7 EDUs)
+  [0] Overall, I believe that the city which I enjoy the most is a combination of history and modernity
+  [21] . However, the preservation of old buildings is a one-way street
+  [37] . There is no chance to renovate to save a history
+  [49] site once it's gone
+  [55] . This reality brings us to light the importance of locating and saving old buildings of historic significance
+  [78] . Therefore, government should spend money on preservation of old buildings
+  [92] .
+
+Instance 316 (6 EDUs)
+  [0] There have been significant developments in the field of IT!\n\
+  [15] nDecade after decade, every day, scientists discover magnificent devices in the field of IT, such as interactive boards, multicore computers and laptops, tablets, which have an incredible
+  [57] resolution and also mobile phones, which have the power of a computer
+  [71] . World Wide Web and communication via email are some of the positive sides of information technology
+  [89] , however, there are some negative aspects
+  [97] .
+
+Instance 317 (6 EDUs)
+  [0] Firstly, connecting people by email is easy and fast
+  [12] . In addition, World Wide Web offers humanity to access to information
+  [26] , which they want to know for less than 10 seconds
+  [37] . These are two of the benefits
+  [44] , why IT is useful
+  [49] .
+
+Instance 318 (8 EDUs)
+  [0] Besides, nowadays technology is entering into our society really
+  [14] quick and scientists develop robots
+  [21] , which help people cope with their
+  [29] problems or just invent coffee machines, engines with integrated computers and etc
+  [45] . For example, before centeries, there were not washing machines
+  [59] , which clean your clothes
+  [64] , while a person do another job
+  [71] .
+
+Instance 319 (5 EDUs)
+  [0] Secondly, there are some drawbacks about this issue
+  [12] . Scientists believe that one day people will face their developments, for instance robots
+  [31] , and they will not succeed to control them
+  [40] . All this inventions will try to take control of the Earth
+  [53] .
+
+Instance 320 (4 EDUs)
+  [0] In conclusion, I
+  [4] agree that IT discoveries are likely to have more disadvantages than
+  [19] benefits and people should know how to use their developments properly
+  [31] .
+
+Instance 321 (7 EDUs)
+  [0] Do you
+  [2] agree that the traditional skills will die out?\n\
+  [14] nWith the development of technology, whether or not it is still necessary to protect the traditional skills and lifestyles leads to a drastic controvers
+  [43] y which is becoming a public concern
+  [50] , especially considering the significant impact taken by technology
+  [59] . As far as I am concerned, the importance of traditions should be valued and paid attention to
+  [80] .
+
+Instance 322 (14 EDUs)
+  [0] Traditional skills and lifestyles play important role in modern society, in terms of healthcare, environmental protection and cultural inherit
+  [26] . Although technology takes convenience to humankind
+  [35] , it also contributes to unhealthy behaviors of life, like sedentary lifestyle
+  [54] . Instead, traditional ways of life is a great complimentary for modern
+  [68] life and highlight the importance of work life balance
+  [77] . Meanwhile, due to the fact that traditional skills rely little on fossil energy
+  [95] , it is more environmentally-friendly
+  [103] , which should be promote
+  [108] d to reduce the threat of climate change
+  [116] . Furthermore those tradition-related things convey traditional culture and values
+  [131] . These are important foundation of modern civilization
+  [140] . Protection of tradition can provide the
+  [147] possibility to better understand ancient culture and utilize them to tackle modern problems
+  [162] .
+
+Instance 323 (9 EDUs)
+  [0] Some people who hold different viewpoints may advocate that protecting traditions consume too much financial
+  [20] budget compared with the incom
+  [26] ing it takes
+  [29] . In spite of the fact this kind of business bring limited contribution to government finance
+  [46] , it should be emphasized that the expense is trivial compared with the potential value of traditions
+  [69] . Therefore the government authorities and education institutes should work closely
+  [82] together to promote the traditional skills and ways of life
+  [92] , so as to make people to realize the value of them
+  [104] .
+
+Instance 324 (3 EDUs)
+  [0] All in all, protection of tradition is not only important for the entire society currently
+  [16] , but also contributes to the next generation
+  [25] .
+
+Instance 325 (5 EDUs)
+  [0] Paying taxes is enough contribution from citizens\n\
+  [12] nPaying taxes is the obligation of citizens in almost every country
+  [27] . Some people believe that they have made enough contribution to the country by doing that
+  [43] . Personally, I tend to disagree with this view
+  [54] .
+
+Instance 326 (10 EDUs)
+  [0] To start with, all people who are able to work should pay tax to the government
+  [17] , as it is the most important source of government's revenue
+  [30] , which is mainly
+  [35] used to serve all citizens
+  [41] . For example, a large proportion of the tax is spent on national defence and in maintaining social stability
+  [65] , so that every one can work and live in a peaceful environment
+  [79] . The tax is also used to pay the salaries of workers working in public service sectors, such as teachers and police officers
+  [106] . Although these workers do not produce profit directly
+  [115] , what they do is for the well-being of the whole society
+  [130] .
+
+Instance 327 (17 EDUs)
+  [0] However, I would ar
+  [5] gue that citizens have other important responsibilities to ful
+  [16] fil apart from paying tax
+  [21] . As we know, there are impoverished or disabled people in every society
+  [37] , needing help and support from others
+  [45] . It is true that the government can provide some
+  [55] fund to ease their difficulties
+  [62] , but such financial help is usually far from enough
+  [72] . In such case, aids from more capable or wealthier citizens are particularly crucial
+  [90] , which are a great complement to government support
+  [99] . Another responsibility all citizens should take is to maintain social stability together with the police force
+  [118] . There are criminals in every society
+  [126] , and the number of policemen the government can hire is limited
+  [140] . So it is quite necessary for the local residents to take
+  [152] actions and ensure the safety of the communities
+  [160] , by doing things like reporting suspicious activities to the police department
+  [175] .
+
+Instance 328 (4 EDUs)
+  [0] In conclusion, it is a significant obligation of citizens to pay tax to the government
+  [18] . Other than that, they have other critical obligations to take
+  [31] , in order to make our society function in an ordered way
+  [44] .
+
+Instance 329 (11 EDUs)
+  [0] Using a computer every day can have more negative than positive effects\n\
+  [16] nIn today's world, computer is an essential part of everyday life
+  [31] . Around the globe, the effect is evident on children also
+  [45] . It is disagreed that computer can affect children in a negative
+  [58] way if they use a computer on a daily basis
+  [68] . This will be
+  [72] proven by analyzing how computer assists children to use vast resources available over
+  [88] internet to study
+  [91] effectively as well as develop some basic
+  [98] skills which help them in future careers
+  [106] .
+
+Instance 330 (9 EDUs)
+  [0] The best thing about internet is the availability of information in the form of text, image or video related to almost
+  [24] everything and through computer children can access
+  [31] internet to gather knowledge on the subjects they are studying or they are interested about
+  [49] . As an example, students preparing for delivering speech on a certain topic can browse through
+  [70] internet to learn each and every minute details of the subject matter
+  [82] . It's hard to get everything at a same
+  [93] place unless children are not familiar with computers
+  [102] . That is how, computer impacts children on a positive note
+  [115] .
+
+Instance 331 (8 EDUs)
+  [0] Nowadays, computers enable people to prepare presentations, draw complex graphs and pictures, document thesis in a simple though efficient way
+  [30] . When children are allowed to play around with computer from a very early age
+  [45] , they get acquainted with the previously mentioned
+  [55] skills and become
+  [58] expert before facing professional world
+  [64] . For instance, students who used to prepare Microsoft PowerPoint presentation for their school projects, get an edge over others at an early stage of their career
+  [93] . From this, it's clear that computer has a positive effect on the children
+  [110] .
+
+Instance 332 (5 EDUs)
+  [0] Following the demonstration of a computer's contribution in children's study and building skills which are to be used in their career afterwards
+  [30] , it is agreed that computer is a boon to children
+  [42] . However, parents should advise and guide their children
+  [52] properly so that they don't get misled
+  [62] .
+
+Instance 333 (8 EDUs)
+  [0] Foreign language instruction should begin in kindergarten\n\
+  [12] nEducational institutions have different systems when it comes to introducing foreign languages to children
+  [32] . Some people believe that foreign language instruction should start in pre-school
+  [47] . However, those who disagree contend that this should be taught in later years
+  [63] . This issue has garnered some attention in the acade
+  [76] me as it has an impact on the children's learning
+  [88] . I personally believe that it is important for children to be taught with a secondary language as early as kindergarten
+  [111] .
+
+Instance 334 (7 EDUs)
+  [0] To begin with, children might not be really comfortable with the use of a language other than their native tongue when they are in their kindergarten years
+  [31] . Learning at school must be convenient for
+  [39] them if they speak in a way that they are used to
+  [51] . Moreover, teachers think that foreign language most likely leads to confusion for children who are yet to start learning
+  [74] . Another important thing to consider is that the teacher should be well-trained in the use of this specific language
+  [97] , so quality education will be delivered
+  [105] .
+
+Instance 335 (9 EDUs)
+  [0] Nevertheless, it is undeniable that kids are amazing learners
+  [15] , and the best time to hone them is in their younger years
+  [30] . The introduction of foreign language will be new to them
+  [42] ; however, their curiosity will drive them to learn and comprehend
+  [55] . In this way, grasping a new language will be natural to them
+  [70] . In addition, the positive impact of this strategy is beneficial to both learners and teachers
+  [89] . Teachers will not find it difficult to make students learn such new concept in their teenage years
+  [109] . It is certainly clear that the advantages of early introduction of foreign language outweigh its disadvantages
+  [133] .
+
+Instance 336 (5 EDUs)
+  [0] In conclusion, the use of foreign language instruction as early as kindergarten is supported by some people
+  [21] ; however, there are those who disagree
+  [29] . I am totally convinced that if this endeavour is properly implemented by schools
+  [46] , this will most likely lead to improvement of learning ability among children
+  [59] .
+
+Instance 337 (7 EDUs)
+  [0] International tourism leads to both - tension and understanding\n\
+  [14] nI agree with both
+  [19] opinions that international tourism not only causes
+  [27] tension but also leads to understanding between people from different culture
+  [39] , because most people will be trying to understand each
+  [49] other after they have conflict or debates
+  [57] .
+
+Instance 338 (11 EDUs)
+  [0] There is no doubt that some behaviors of the tourists are not welcome in the local area
+  [19] . Firstly, some people leave the rubbis
+  [29] h after visiting the attractions
+  [35] . Therefore, those local residents have to clean the place
+  [46] frequently so that the new batch of tourists will have a tidy and neat environment
+  [64] . Moreover, tourists may offend the local people due to their different culture background
+  [82] . For example, Indians don't eat be
+  [93] ef since they worship cows
+  [99] . Thus, if tourists want to respect the tradition
+  [111] , they will not order any beef in the local restaurant
+  [123] .
+
+Instance 339 (8 EDUs)
+  [0] On the other hand, in order to avoid the conflicts between foreigners and locals
+  [18] , people are trying to understand different
+  [25] culture and find solutions
+  [29] . For instance, tourists are given the brochures about the local traditions and custom
+  [47] s before they visit the place
+  [53] . Furthermore, the tour guide are willing to help tourists to understand the culture from other countries
+  [74] . Thus, the possibility of the conflicts is reduced because the understanding between both parties
+  [93] .
+
+Instance 340 (5 EDUs)
+  [0] Obviously, people are looking for the solution such as understanding each
+  [14] other while they encounter the conflicts caused by international tourism
+  [26] . Hence, I
+  [31] think international tourism leads to both tension and understanding between people from different culture
+  [47] .
+
+Instance 341 (8 EDUs)
+  [0] Traditional skills and ways are always
+  [7] valuable and will last forever\n\
+  [15] nThese days, most of countries on the world invest for technology
+  [29] . It is evident that technology promotes economy
+  [38] . Many people think that conventional things will not
+  [48] exist and should be eliminated
+  [54] . I totally disagree this opinion
+  [60] .
+
+Instance 342 (9 EDUs)
+  [0] First of all, traditional skills and ways belong to value of culture
+  [14] . They make differences between countries
+  [21] . Every country has unique trad
+  [27] tions which show their creation, intelligence
+  [35] . Consequently, people feel pround of their country
+  [49] , so they keep reserving conventions
+  [57] . For example, ways to build a house in every country are
+  [70] different and they distinguish between countries
+  [77] .
+
+Instance 343 (13 EDUs)
+  [0] In addition, in some cases that traditional way can not replace by a new technology
+  [16] . Lot of people like to use traditional
+  [24] things because if their quality and durability
+  [32] . In paticular, vases are made by
+  [42] hand would be used more
+  [47] . Futhermore, there are plenty of
+  [56] works that using traditional way is unique method
+  [64] . For instance, making cone hats from leaves have to use hand
+  [80] . Not only because there is no machine for the work
+  [91] , but also it looks more
+  [97] beautiful when it is made by hand
+  [104] , so resulting in greater value economy
+  [112] .
+
+Instance 344 (5 EDUs)
+  [0] The last thing is about education
+  [6] . Traditional skills and ways of life will help youngsters study and know more history
+  [23] . Methods which their ancestors used in the past will be displayed again for new generations
+  [44] . After that, they might create somethings that are useful for life
+  [58] .
+
+Instance 345 (4 EDUs)
+  [0] In conclusion, technology has brought many benefits
+  [8] , but traditional skills and ways are always
+  [16] valuable and will last forever
+  [21] .
+
+Instance 346 (12 EDUs)
+  [0] Capital punishment; 51% countries have polished death penalty\n\n"Capital punishment or the death penalty is a legal process whereby a person is put to death by the state as a punishment for a crime
+  [51] ." In recently years, many countries have polished the law of the death penalty
+  [67] . In the whole world, 51% countries have polished death penalty
+  [81] ; even, it is at 98% in Europe
+  [90] . Some people claim
+  [94] that without this punishment our lives would be less
+  [105] secure and crimes of violence would increase
+  [112] . However, others ar
+  [117] gue that it is not essential to control violence in society by the death penalty
+  [132] . Personally, I think it is no evidence about the reduction of crime rates due to the death
+  [153] penalty because of many reasons
+  [158] .
+
+Instance 347 (13 EDUs)
+  [0] Firstly, capital punishment is a form of revenge which creates violent culture
+  [18] . Crimes kill
+  [22] someone which is illegal
+  [26] ; nevertheless, the government use
+  [34] law to punish them
+  [39] , which is the same
+  [44] way they sinne
+  [47] d but in a legal one
+  [53] . As a fact that the criminal is repeated second time
+  [65] ; also, it is regarded as the "legalized revenge" to victims' family
+  [85] . Hence, death penalty neither controls the violent in
+  [98] society nor creates a violent culture
+  [105] .
+
+Instance 348 (10 EDUs)
+  [0] Secondly, nobody has the right to take another human life
+  [13] . It is undeniable that the rights of life are the basic and vital rights of a human being
+  [34] . No one has the right to take the life of a human
+  [47] ; even if he committed murder
+  [53] . If you kill a criminal
+  [59] , you become a criminal
+  [64] . Moreover, if we think that killing is the best way to solve the problem
+  [82] , it is neither unethical nor immoral
+  [93] . In short, crimes seem to increase due to the capital punishment
+  [108] .
+
+Instance 349 (16 EDUs)
+  [0] Finally, with some of serious criminals, capital punishment is an easy way out
+  [18] . Criminals should be punished for their misdeeds
+  [32] . If they kill
+  [36] someone and end their life by
+  [42] dead without paying for their sins
+  [49] , it is so easy for them
+  [56] . They do not undergo any pain or misery
+  [67] . Why do not we have other wisely punishments
+  [79] ? As we can
+  [83] see some industries such as mining, oil and gas extraction, reclamation, etc, needs many labors
+  [107] . Why do not punish
+  [113] them by doing something meaningful for the country
+  [122] - it is better
+  [126] . Moreover, rehabilitation and education is also a better
+  [138] way in order to prevent or minimize offensive acts
+  [150] .
+
+Instance 350 (8 EDUs)
+  [0] To conclude
+  [2] , capital punishment is a form of legalized revenge
+  [15] , it is an easy way for serious crimes
+  [24] , and nobody has rights to take others life
+  [34] ; thus, it neither demines crimes of
+  [45] violence nor be essential to control violence in society
+  [54] . The world should consider clearly about polishing the law of the dead penalty
+  [69] .
+
+Instance 351 (5 EDUs)
+  [0] Technology helps student learn more information and learn more quickly?\n\
+  [14] nNowadays, technology plays an indispensable role in almost all spheres of life
+  [33] . In education, it is believed that technology help the students improve their scholastic performances
+  [53] . From my viewpoint, the richness as well as convenience of technology are two main factors that contribute to the students' progress
+  [80] .
+
+Instance 352 (9 EDUs)
+  [0] To start with
+  [3] , since technology was introduced
+  [9] , student have been exposed to a wide range of information
+  [21] , which neccessarily broaden their minds
+  [32] . The internet, for example, provide knowledge in the form of news, radio talks, tapes or reseachs on any particular fields
+  [62] . There, the students can not only ascertain concerned subject
+  [75] s but they can also get access to relevant
+  [84] issues and discuss with people worldwide
+  [90] .
+
+Instance 353 (8 EDUs)
+  [0] Another point that students may benefit from technology is the shortened time for learning
+  [16] . The modern world provides learners with the mp3, the mobile phone or the
+  [33] laptop that help them, especially language learners, listen to recordings everyw
+  [49] hre or read documents anytime
+  [55] . Therefore, students will develop their skills at a greater pace
+  [67] . Moreover, the internet again, is an inexhaustible resource of visual aids, such as educational games, sounds or
+  [95] images with which students may absorb abstract concepts taught at school more briskly and thoroughly
+  [114] .
+
+Instance 354 (5 EDUs)
+  [0] On balance, I have to consent to the use of technology in education
+  [14] , as it expedites data availability and accelarates students' learning process
+  [31] . It is highly recommended that apart from education, technology should be applied in every aspect of
+  [49] life which assures of a better future
+  [57] .
+
+Instance 355 (6 EDUs)
+  [0] Classmates' impacts on children's performance at school\n\
+  [15] nIt goes without saying that no pupil can succeed at school unassisted
+  [30] . Their success should be attributed to many different external factors
+  [43] . It is argued that parents who are the closet to children mainly contribute to their accomplishments
+  [64] . However, in my opinion, the classmates should be regarded as the most important influence on individual achievements
+  [87] .
+
+Instance 356 (8 EDUs)
+  [0] To begin with, the classmates themselves creat a competitive atmoshpher
+  [15] e which incent the children
+  [21] . In high school, for instance, an individual cannot resist studying painstakingly through day and
+  [42] night when the others who are astoundingly ambitious and set sights on prestigious universities around the globe are doing the same
+  [71] . From a psychological perspective, the feeling of being subordinate to their peers exert enormous pressure on the children
+  [96] , which subsequently transforms into some sort of stimul
+  [107] ants and boosts the children's academic performances
+  [118] .
+
+Instance 357 (12 EDUs)
+  [0] To add up
+  [3] , when it comes to knowledge and the acquisition of such
+  [15] , classmates are second to none
+  [23] . It is a matter of fact that students share even more time together than with their parents
+  [41] , explaining a great deal of wisdom they absorb from each others
+  [54] ; it can be, for example, lessons on the class, social skills or general etiquettes that are sometimes overlooked by parents
+  [82] . Sharing the same age
+  [88] , children are at their most comfort to exchange ideas
+  [98] , to query and interpret abstract concept
+  [106] s without fear of parental punishments
+  [115] , resulting in deeper comprehension
+  [124] .
+
+Instance 358 (4 EDUs)
+  [0] All advantages considered
+  [4] , classmates are unrivalled by the children's
+  [17] parents as they provide tremendous incentive and horizon expansion, two crucial commodities leading to a successful presentation at school
+  [43] .
+
+Instance 359 (5 EDUs)
+  [0] Detailed description of crimes on newspaper and TV can have bad consequences on society\n\
+  [18] nNowadays, the print as well as the electronic media tend to dedicate large amounts of airtime and space to detailed reports about crimes
+  [48] . Personally, I believe such details should be strictly censored
+  [63] , if not banned altogether
+  [70] .
+
+Instance 360 (9 EDUs)
+  [0] It is widely known that the press provide the public with criminal
+  [13] content in order to increase newspaper circulation and TV rating
+  [23] . These days the primary purpose of journalists covering the details of criminal act
+  [39] s is, more often than that, to boost newspaper circulations and TV ratings
+  [56] . Consequently, a great deal of crime coverage is rather biased, exaggerated or fraudulent
+  [82] , which only
+  [85] result to terrorize
+  [89] communities and leave law-aiding people increasingly apprehensive of about crimes
+  [106] .
+
+Instance 361 (8 EDUs)
+  [0] An even more detrimental fact is that detailed reports of crimes exposured on the press may provide the potential criminals with instructive learning materials
+  [29] , which would be hard to obtain otherwise
+  [37] . This may help those who are in the process of panning a criminal act perfect their plans
+  [56] , avoid the pit
+  [60] falls and make themselves harder to be tracked down by the police
+  [74] . Thus, without the prevention on criminal details, the unlawful behavior would be more and more
+  [96] severe and the social harmony would be broken
+  [106] .
+
+Instance 362 (5 EDUs)
+  [0] Most importantly, particular coverage of heinous crimes may further traumatize the victims of
+  [18] crimes because they have already suffered greatly for what they have experienced
+  [32] . Without their consent, this could only add to theses innocent people's mental
+  [49] suffering and they may do some extreme actions
+  [57] .
+
+Instance 363 (7 EDUs)
+  [0] In conclusion, I strongly hold my
+  [8] point that any descriptions of crimes should not go uncheck
+  [20] ed as any longer
+  [24] , as they may be false
+  [30] , may further drive up the already-high crime
+  [40] rate and may bring even more suffering to the victims of crimes
+  [53] .
+
+Instance 364 (5 EDUs)
+  [0] We can not forcedly put the same numbers of males and females into every subject\n\
+  [21] nThere is a view that universities and colleges should equally enroll male and female students in numbers in each faculty
+  [48] . Personally, I do not agree the viewpoint
+  [59] , because many different characters exist between male and female students
+  [70] .
+
+Instance 365 (10 EDUs)
+  [0] On one hand, boys and girls have the diversity in psychological modes and individuality
+  [19] . Most of male students tend to use their left brain to think and act
+  [34] , and they are more rational and logical than girls in many cases
+  [48] . For instance, there are more male scientists and engineers in comparison with females around the world
+  [69] . Many boys are interested in science and technology
+  [78] , while a number of girls like to learn literature, education and arts
+  [92] . Besides, girls are more likely to prefer some jobs related to emotion and communication, such as teacher, singer and interpreter
+  [119] . This means that girls differ from boys in mind and behaviour to a large extent
+  [135] , and they both have better ability in the specific aspect
+  [146] .
+
+Instance 366 (6 EDUs)
+  [0] Furthermore, it can have a negative affect on these students to require them to choose a subject in equal proportion of gender
+  [25] , and that does not conform to students' personality traits and mental development
+  [41] . For example, a girl, who is interested in literature, is arranged into an engineering department
+  [61] , but she is unlikely to focus on her subject
+  [73] , and this also can block the girl's future development and career prospect
+  [88] .
+
+Instance 367 (4 EDUs)
+  [0] On the other hand, universities should encourage more girls to choose science subjects and more boys to study the humanities
+  [24] , and this could avoid imbalance of gender in some subjects
+  [37] . It would affect students' mental health to study in the environment of single gender
+  [53] .
+
+Instance 368 (3 EDUs)
+  [0] In conclusion, it is necessary for universities to respect the individual choice of subject due to the diversity of boys and girls
+  [25] , and we ca not forcedly put the same numbers of males and females into every subject
+  [45] .

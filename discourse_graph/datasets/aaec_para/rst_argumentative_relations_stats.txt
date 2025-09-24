@@ -1,0 +1,321 @@
+Analyzing train split...
+
+============================================================
+AAEC-Para TRAIN Dataset Statistics
+============================================================
+
+Total Statistics:
+  Total argumentative relations: 2705
+  Total discourse relations: 7952
+  Total argumentative pairs: 2705
+  Arg relations with discourse support: 2705
+  Coverage percentage: 100.00%
+
+Discourse Relations by Type:
+  Elaboration: 1789 (22.50%)
+  Joint: 1760 (22.13%)
+  Background: 1067 (13.42%)
+  Contrast: 829 (10.43%)
+  Cause: 671 (8.44%)
+  Enablement: 456 (5.73%)
+  Explanation: 440 (5.53%)
+  Condition: 213 (2.68%)
+  Evaluation: 197 (2.48%)
+  Attribution: 182 (2.29%)
+  Same-Unit: 173 (2.18%)
+  Manner-Means: 79 (0.99%)
+  Temporal: 74 (0.93%)
+  Summary: 9 (0.11%)
+  Comparison: 8 (0.10%)
+  Topic-Comment: 5 (0.06%)
+
+Discourse Relations Supporting Argumentative Relations:
+  Elaboration: 5586 (25.04%)
+  Joint: 5423 (24.31%)
+  Cause: 2456 (11.01%)
+  Background: 1911 (8.57%)
+  Contrast: 1706 (7.65%)
+  Enablement: 1297 (5.81%)
+  Explanation: 1040 (4.66%)
+  Condition: 750 (3.36%)
+  Evaluation: 695 (3.12%)
+  Same-Unit: 501 (2.25%)
+  Temporal: 332 (1.49%)
+  Attribution: 298 (1.34%)
+  Manner-Means: 244 (1.09%)
+  Comparison: 39 (0.17%)
+  Topic-Comment: 16 (0.07%)
+  Summary: 12 (0.05%)
+
+Argumentative-Discourse Correspondence:
+  supports relations:
+    -> Elaboration: 5317
+    -> Joint: 5170
+    -> Cause: 2340
+    -> Background: 1791
+    -> Contrast: 1460
+    -> Enablement: 1235
+    -> Explanation: 989
+    -> Condition: 696
+    -> Evaluation: 660
+    -> Same-Unit: 456
+    -> Temporal: 325
+    -> Attribution: 254
+    -> Manner-Means: 230
+    -> Comparison: 38
+    -> Topic-Comment: 16
+    -> Summary: 8
+  attacks relations:
+    -> Elaboration: 269
+    -> Joint: 253
+    -> Contrast: 246
+    -> Background: 120
+    -> Cause: 116
+    -> Enablement: 62
+    -> Condition: 54
+    -> Explanation: 51
+    -> Same-Unit: 45
+    -> Attribution: 44
+    -> Evaluation: 35
+    -> Manner-Means: 14
+    -> Temporal: 7
+    -> Summary: 4
+    -> Comparison: 1
+Analyzing dev split...
+
+============================================================
+AAEC-Para DEV Dataset Statistics
+============================================================
+
+Total Statistics:
+  Total argumentative relations: 318
+  Total discourse relations: 997
+  Total argumentative pairs: 318
+  Arg relations with discourse support: 318
+  Coverage percentage: 100.00%
+
+Discourse Relations by Type:
+  Elaboration: 241 (24.17%)
+  Joint: 220 (22.07%)
+  Background: 146 (14.64%)
+  Cause: 84 (8.43%)
+  Contrast: 71 (7.12%)
+  Enablement: 68 (6.82%)
+  Explanation: 39 (3.91%)
+  Condition: 32 (3.21%)
+  Same-Unit: 32 (3.21%)
+  Attribution: 19 (1.91%)
+  Manner-Means: 17 (1.71%)
+  Evaluation: 14 (1.40%)
+  Temporal: 12 (1.20%)
+  Summary: 1 (0.10%)
+  Comparison: 1 (0.10%)
+
+Discourse Relations Supporting Argumentative Relations:
+  Elaboration: 759 (26.24%)
+  Joint: 623 (21.54%)
+  Cause: 347 (12.00%)
+  Background: 299 (10.34%)
+  Enablement: 226 (7.81%)
+  Contrast: 162 (5.60%)
+  Condition: 104 (3.60%)
+  Same-Unit: 100 (3.46%)
+  Explanation: 90 (3.11%)
+  Temporal: 65 (2.25%)
+  Evaluation: 50 (1.73%)
+  Manner-Means: 37 (1.28%)
+  Attribution: 27 (0.93%)
+  Comparison: 3 (0.10%)
+
+Argumentative-Discourse Correspondence:
+  supports relations:
+    -> Elaboration: 728
+    -> Joint: 577
+    -> Cause: 337
+    -> Background: 285
+    -> Enablement: 224
+    -> Contrast: 139
+    -> Condition: 101
+    -> Same-Unit: 91
+    -> Explanation: 88
+    -> Temporal: 63
+    -> Evaluation: 50
+    -> Manner-Means: 37
+    -> Attribution: 27
+    -> Comparison: 3
+  attacks relations:
+    -> Joint: 46
+    -> Elaboration: 31
+    -> Contrast: 23
+    -> Background: 14
+    -> Cause: 10
+    -> Same-Unit: 9
+    -> Condition: 3
+    -> Explanation: 2
+    -> Temporal: 2
+    -> Enablement: 2
+Analyzing test split...
+
+============================================================
+AAEC-Para TEST Dataset Statistics
+============================================================
+
+Total Statistics:
+  Total argumentative relations: 809
+  Total discourse relations: 2267
+  Total argumentative pairs: 809
+  Arg relations with discourse support: 809
+  Coverage percentage: 100.00%
+
+Discourse Relations by Type:
+  Joint: 538 (23.73%)
+  Elaboration: 509 (22.45%)
+  Background: 307 (13.54%)
+  Contrast: 206 (9.09%)
+  Cause: 194 (8.56%)
+  Explanation: 127 (5.60%)
+  Enablement: 104 (4.59%)
+  Condition: 89 (3.93%)
+  Attribution: 50 (2.21%)
+  Evaluation: 46 (2.03%)
+  Same-Unit: 46 (2.03%)
+  Manner-Means: 28 (1.24%)
+  Temporal: 15 (0.66%)
+  Summary: 4 (0.18%)
+  Comparison: 4 (0.18%)
+
+Discourse Relations Supporting Argumentative Relations:
+  Joint: 1900 (26.97%)
+  Elaboration: 1752 (24.87%)
+  Cause: 707 (10.04%)
+  Background: 644 (9.14%)
+  Contrast: 457 (6.49%)
+  Explanation: 352 (5.00%)
+  Condition: 305 (4.33%)
+  Enablement: 303 (4.30%)
+  Evaluation: 164 (2.33%)
+  Same-Unit: 141 (2.00%)
+  Manner-Means: 121 (1.72%)
+  Attribution: 107 (1.52%)
+  Temporal: 67 (0.95%)
+  Comparison: 15 (0.21%)
+  Summary: 10 (0.14%)
+
+Argumentative-Discourse Correspondence:
+  supports relations:
+    -> Joint: 1816
+    -> Elaboration: 1679
+    -> Cause: 679
+    -> Background: 621
+    -> Contrast: 405
+    -> Explanation: 335
+    -> Condition: 298
+    -> Enablement: 285
+    -> Evaluation: 156
+    -> Same-Unit: 133
+    -> Manner-Means: 114
+    -> Attribution: 100
+    -> Temporal: 67
+    -> Comparison: 13
+    -> Summary: 7
+  attacks relations:
+    -> Joint: 84
+    -> Elaboration: 73
+    -> Contrast: 52
+    -> Cause: 28
+    -> Background: 23
+    -> Enablement: 18
+    -> Explanation: 17
+    -> Same-Unit: 8
+    -> Evaluation: 8
+    -> Manner-Means: 7
+    -> Attribution: 7
+    -> Condition: 7
+    -> Summary: 3
+    -> Comparison: 2
+
+============================================================
+COMBINED DATASET STATISTICS
+============================================================
+
+============================================================
+AAEC-Para COMBINED Dataset Statistics
+============================================================
+
+Total Statistics:
+  Total argumentative relations: 3832
+  Total discourse relations: 11216
+  Total argumentative pairs: 3832
+  Arg relations with discourse support: 3832
+  Coverage percentage: 100.00%
+
+Discourse Relations by Type:
+  Elaboration: 2539 (22.64%)
+  Joint: 2518 (22.45%)
+  Background: 1520 (13.55%)
+  Contrast: 1106 (9.86%)
+  Cause: 949 (8.46%)
+  Enablement: 628 (5.60%)
+  Explanation: 606 (5.40%)
+  Condition: 334 (2.98%)
+  Evaluation: 257 (2.29%)
+  Same-Unit: 251 (2.24%)
+  Attribution: 251 (2.24%)
+  Manner-Means: 124 (1.11%)
+  Temporal: 101 (0.90%)
+  Summary: 14 (0.12%)
+  Comparison: 13 (0.12%)
+  Topic-Comment: 5 (0.04%)
+
+Discourse Relations Supporting Argumentative Relations:
+  Elaboration: 8097 (25.11%)
+  Joint: 7946 (24.64%)
+  Cause: 3510 (10.89%)
+  Background: 2854 (8.85%)
+  Contrast: 2325 (7.21%)
+  Enablement: 1826 (5.66%)
+  Explanation: 1482 (4.60%)
+  Condition: 1159 (3.59%)
+  Evaluation: 909 (2.82%)
+  Same-Unit: 742 (2.30%)
+  Temporal: 464 (1.44%)
+  Attribution: 432 (1.34%)
+  Manner-Means: 402 (1.25%)
+  Comparison: 57 (0.18%)
+  Summary: 22 (0.07%)
+  Topic-Comment: 16 (0.05%)
+
+Argumentative-Discourse Correspondence:
+  supports relations:
+    -> Elaboration: 7724
+    -> Joint: 7563
+    -> Cause: 3356
+    -> Background: 2697
+    -> Contrast: 2004
+    -> Enablement: 1744
+    -> Explanation: 1412
+    -> Condition: 1095
+    -> Evaluation: 866
+    -> Same-Unit: 680
+    -> Temporal: 455
+    -> Manner-Means: 381
+    -> Attribution: 381
+    -> Comparison: 54
+    -> Topic-Comment: 16
+    -> Summary: 15
+  attacks relations:
+    -> Joint: 383
+    -> Elaboration: 373
+    -> Contrast: 321
+    -> Background: 157
+    -> Cause: 154
+    -> Enablement: 82
+    -> Explanation: 70
+    -> Condition: 64
+    -> Same-Unit: 62
+    -> Attribution: 51
+    -> Evaluation: 43
+    -> Manner-Means: 21
+    -> Temporal: 9
+    -> Summary: 7
+    -> Comparison: 3
